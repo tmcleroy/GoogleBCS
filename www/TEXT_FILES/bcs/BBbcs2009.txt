@@ -1,0 +1,25 @@
+Kansas                  1
+Kentucky                2
+Duke                    3
+Syracuse                4
+Ohio State              5
+West Virginia           6
+Kansas State            7
+New Mexico              8
+Villanova               9
+Purdue                  10
+Butler                  11
+Temple                  12
+Michigan State          13
+Georgetown              14
+Tennessee               15
+Wisconsin               16
+BYU                     17
+Pittsburgh              18
+Baylor                  19
+Maryland                20
+Vanderbilt              21
+Gonzaga                 22
+Texas AM                23
+Richmond                24
+Xavier                  25

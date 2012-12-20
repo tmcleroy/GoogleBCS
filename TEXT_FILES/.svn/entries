@@ -1,0 +1,40 @@
+10
+
+dir
+193
+http://svn.cs.stedwards.edu/cosc3339/googlebcs/trunk/GoogleBCS/TEXT_FILES
+http://svn.cs.stedwards.edu/cosc3339/googlebcs
+
+
+
+2012-05-03T01:59:14.843102Z
+186
+tmclero
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+86e6e284-760d-4388-85bf-a0e2d020e2b6
+
+BB
+dir
+
+FB
+dir
+
+bcs
+dir
+
+icons
+dir
+

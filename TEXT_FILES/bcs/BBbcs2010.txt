@@ -1,0 +1,25 @@
+Ohio State              1
+Kansas                  2
+Duke                    3
+Pittsburgh              4
+Notre Dame              5
+San Diego State         6
+North Carolina          7
+Texas                   8
+Connecticut             9
+BYU                     10
+Kentucky                11
+Syracuse                12
+Purdue                  13
+Louisville              14
+Florida                 15
+Wisconsin               16
+Arizona                 17
+St. Johns               18
+Utah U State            19
+Xavier                  20
+Kansas State            21
+West Virginia           22
+Washington              23
+Texas AM                24
+Vanderbilt              25

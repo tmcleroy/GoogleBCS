@@ -1,0 +1,65 @@
+package test;
+
+import java.util.HashMap;
+import java.util.Map;
+import bcs.PageRank;
+import bcs.PageRankImpl;
+import bcs.Team;
+import bcs.TeamImpl;
+import edu.uci.ics.jung.graph.DirectedSparseMultigraph;
+
+public class PageRankTestBed {
+
+
+	private static Map PRs = new HashMap();
+	
+	public static void main(String[] args) 
+	{
+		
+		DirectedSparseMultigraph<Team, Integer> g = new DirectedSparseMultigraph<Team, Integer>();
+
+		Team A = new TeamImpl("A");
+		Team B = new TeamImpl("B");
+		Team C = new TeamImpl("C");
+		Team D = new TeamImpl("D");
+		g.addVertex(A);
+		g.addVertex(B);
+		g.addVertex(C);
+		g.addVertex(D);
+		
+		g.addEdge(1, A, B);
+		g.addEdge(2, A, C);
+		g.addEdge(3, A, D);
+		g.addEdge(4, B, A);
+		g.addEdge(5, D, C);
+		g.addEdge(6, C, D);
+
+/*
+		//testing JUNG page rank
+		PageRank pr = new PageRank(g, .15);
+		pr.setMaxIterations(1);
+		pr.evaluate();
+
+		Collection qwert = g.getVertices();
+		Iterator i2 = qwert.iterator();
+		while(i2.hasNext())
+		{
+			Team q = (Team) i2.next();
+			
+			System.out.println(q.getTeamName()+": "+pr.getVertexScore(q));
+		}
+	
+		
+		//testing my page rank
+		PageRank gpr = new PageRankImpl(g, .85);
+		double[] prArray = gpr.getPageRanks();
+		
+		for(double d : prArray)
+		{
+			System.out.println(d);
+		}
+	*/	
+	}
+
+}
+

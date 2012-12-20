@@ -1,0 +1,25 @@
+Oklahoma                1
+Florida                 2
+Texas                   3
+Alabama                 4
+Southern California     5
+Utah                    6
+Texas Tech              7
+Penn State              8
+Boise State             9
+Ohio State              10
+Texas Christian         11
+Cincinnati              12
+Oklahoma State          13
+Georgia Tech            14
+Georgia                 15
+Brigham Young           16
+Oregon                  17
+Michigan State          18
+Virginia Tech           19
+Pittsburgh              20
+Missouri                21
+Ball State              22
+Northwestern            23
+Boston College          24
+Mississippi             25

@@ -1,0 +1,25 @@
+Ohio State              1
+Louisiana State         2
+Virginia Tech           3
+Oklahoma                4
+Georgia                 5
+Missouri                6
+Southern California     7
+Kansas                  8
+West Virginia           9
+Hawaii                  10
+Arizona State           11
+Florida                 12
+Illinois                13
+Boston College          14
+Clemson                 15
+Tennessee               16
+Brigham Young           17
+Wisconsin               18
+Texas                   19
+Virginia                20
+South Florida           21
+Cincinnati              22
+Auburn                  23
+Boise State             24
+Connecticut             25

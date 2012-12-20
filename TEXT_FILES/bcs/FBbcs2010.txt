@@ -1,0 +1,25 @@
+Auburn                  1
+Oregon                  2
+Texas Christian         3
+Stanford                4
+Wisconsin               5
+Ohio State              6
+Oklahoma                7
+Arkansas                8
+Michigan State          9
+Boise State             10
+Louisiana State         11
+Missouri                12
+Virginia Tech           13
+Oklahoma State          14
+Nevada                  15
+Alabama                 16
+Texas A&M               17
+Nebraska                18
+Utah                    19
+South Carolina          20
+Mississippi State       21
+West Virginia           22
+Florida State           23
+Hawaii                  24
+Central Florida         25

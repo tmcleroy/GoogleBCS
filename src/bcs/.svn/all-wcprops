@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs
+END
+TeamRecordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/TeamRecordImpl.java
+END
+TeamRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/TeamRecord.java
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cosc3339/googlebcs/!svn/ver/140/trunk/GoogleBCS/src/bcs/.project
+END
+GraphGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/GraphGenerator.java
+END
+GraphGeneratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/GraphGeneratorImpl.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/Settings.java
+END
+SeasonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/SeasonImpl.java
+END
+SettingsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/SettingsImpl.java
+END
+Season.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/Season.java
+END
+InitializerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/InitializerImpl.java
+END
+Initializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/Initializer.java
+END
+TeamRecordManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/TeamRecordManagerImpl.java
+END
+TeamRecordManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/TeamRecordManager.java
+END
+PageRankCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/PageRankCalculator.java
+END
+TeamImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/TeamImpl.java
+END
+PageRankCalculatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/PageRankCalculatorImpl.java
+END
+Team.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/Team.java
+END
+PageRankImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/PageRankImpl.java
+END
+PageRank.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/PageRank.java
+END
+TimeInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/TimeInterval.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/Game.java
+END
+TimeIntervalImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/TimeIntervalImpl.java
+END
+GameImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cosc3339/googlebcs/!svn/ver/193/trunk/GoogleBCS/src/bcs/GameImpl.java
+END

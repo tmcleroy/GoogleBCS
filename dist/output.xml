@@ -1,0 +1,4707 @@
+<?xml version="1.0"?>
+
+<TRM>
+<teamRecord>
+	<team>Kansas</team>
+	<numWins>33</numWins>
+	<numLosses>3</numLosses>
+	<pageRank>41.315</pageRank>
+	<bcsRank>2</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2305.gif</iconURL>
+	<winCollection>Texas Tech, North Texas, Texas, Michigan, 
+Kansas State, Texas Arlington, Boston U, Colorado State, 
+Valparaiso, Nebraska, Nebraska, Baylor, 
+Illinois, Iowa State, Iowa State, Texas AM, 
+Missouri, Missouri, UCLA, UMKC, 
+California, Arizona, Memphis U, Oklahoma State, 
+Oklahoma State, USC, Colorado, Colorado, 
+Colorado, Ohio, Oklahoma, Miami Ohio, 
+Richmond</winCollection>
+	<lossCollection>Texas, Kansas State, Va Commonwealth</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Ohio State</team>
+	<numWins>31</numWins>
+	<numLosses>3</numLosses>
+	<pageRank>40.834</pageRank>
+	<bcsRank>1</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/194.gif</iconURL>
+	<winCollection>George Mason, Minnesota U, Minnesota U, Western Carolina, 
+Michigan, Michigan, Michigan, Penn State, 
+Penn State, Penn State, Tenn Martin, NC Wilmington, 
+Wisconsin, Florida State, Michigan State, Florida, 
+Iowa, Iowa, Morehead State, Illinois, 
+Illinois, Oakland, Purdue, Tex San Antonio, 
+Indiana U, Indiana U, IUPUI, Northwestern, 
+Northwestern, South Carolina, Miami Ohio</winCollection>
+	<lossCollection>Wisconsin, Purdue, Kentucky</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>North Carolina</team>
+	<numWins>26</numWins>
+	<numLosses>8</numLosses>
+	<pageRank>39.285</pageRank>
+	<bcsRank>7</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/153.gif</iconURL>
+	<winCollection>Duke, Marquette, Coll Charleston, Virginia, 
+Florida State, Florida State, Boston College, Boston College, 
+Evansville, Miami Florida, Miami Florida, Long Beach State, 
+Clemson, Clemson, Clemson, Kentucky, 
+Wake Forest, NC State, NC State, Virginia Tech, 
+Rutgers, Maryland, Long Island, William  Mary, 
+Washington U, Hofstra</winCollection>
+	<lossCollection>Minnesota U, Vanderbilt, Illinois, Texas, 
+Georgia Tech, Duke, Duke, Kentucky
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Connecticut</team>
+	<numWins>26</numWins>
+	<numLosses>9</numLosses>
+	<pageRank>39.248</pageRank>
+	<bcsRank>9</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/41.gif</iconURL>
+	<winCollection>Cincinnati, Cincinnati, Texas, Butler, 
+Marquette, Depaul, Depaul, Wichita State, 
+Providence, Georgetown, Georgetown, Syracuse, 
+Seton Hall, Harvard, Villanova, Michigan State, 
+Pittsburgh, Louisville, Tennessee, Kentucky, 
+Kentucky, Rutgers, Arizona, South Florida, 
+San Diego State, Bucknell</winCollection>
+	<lossCollection>Pittsburgh, Notre Dame, Louisville, Syracuse, 
+St. Johns, Louisville, Marquette, West Virginia, 
+Notre Dame</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>BYU</team>
+	<numWins>28</numWins>
+	<numLosses>5</numLosses>
+	<pageRank>37.953</pageRank>
+	<bcsRank>10</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/252.gif</iconURL>
+	<winCollection>Buffalo, Creighton, UTEP, Colorado State, 
+Colorado State, Saint Marys CA, Weber State, Hawaii, 
+UNLV, UNLV, Utah State, Wyoming, 
+Wyoming, TCU, TCU, TCU, 
+Air Force, Air Force, Arizona, Gonzaga, 
+South Florida, Utah U, Utah U, Fresno State, 
+San Diego State, San Diego State, New Mexico, Wofford
+</winCollection>
+	<lossCollection>UCLA, New Mexico, New Mexico, San Diego State, 
+Florida</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Va Commonwealth</team>
+	<numWins>27</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>37.138</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2670.gif</iconURL>
+	<winCollection>NC Greensboro, Old Dominion, New Hampshire, George Mason, 
+Wichita State, Georgetown, NC Wilmington, NC Wilmington, 
+Georgia State, Florida State, James Madison, Towson, 
+UCLA, Wake Forest, Purdue, Northeastern, 
+Kansas, Winthrop, USC, Tulane, 
+William  Mary, William  Mary, Drexel, Drexel, 
+Delaware, Wofford, Hofstra</winCollection>
+	<lossCollection>Tennessee, South Florida, Richmond, UAB, 
+Georgia State, Northeastern, Old Dominion, George Mason, 
+Drexel, James Madison, Old Dominion, Butler
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Duke</team>
+	<numWins>31</numWins>
+	<numLosses>5</numLosses>
+	<pageRank>36.847</pageRank>
+	<bcsRank>3</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/150.gif</iconURL>
+	<winCollection>NC Greensboro, Bradley, Butler, Princeton, 
+Michigan, Kansas State, Marquette, Virginia, 
+Virginia, Michigan State, Boston College, North Carolina, 
+North Carolina, Miami Florida, Miami Florida, Georgia Tech, 
+Clemson, Hampton, Elon, Wake Forest, 
+NC State, NC State, Virginia Tech, Oregon, 
+Maryland, Maryland, Maryland, Saint Louis, 
+UAB, Temple, Miami Ohio</winCollection>
+	<lossCollection>Florida State, St. Johns, Virginia Tech, North Carolina, 
+Arizona</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>San Diego State</team>
+	<numWins>32</numWins>
+	<numLosses>3</numLosses>
+	<pageRank>36.530</pageRank>
+	<bcsRank>6</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/21.gif</iconURL>
+	<winCollection>Wichita State, Colorado State, Colorado State, Cal Poly SLO, 
+Saint Marys CA, BYU, No. Colorado, UNLV, 
+UNLV, UNLV, Long Beach State, San Francisco, 
+Wyoming, Wyoming, California, TCU, 
+TCU, Air Force, Air Force, Gonzaga, 
+Cal Santa Barb, IUPUI, IUPUI, Utah U, 
+Utah U, Utah U, Temple, Miami Ohio, 
+Wisc Green Bay, New Mexico, New Mexico, San Diego
+</winCollection>
+	<lossCollection>BYU, BYU, Connecticut</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Kentucky</team>
+	<numWins>24</numWins>
+	<numLosses>9</numLosses>
+	<pageRank>36.390</pageRank>
+	<bcsRank>11</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/96.gif</iconURL>
+	<winCollection>Mississippi, Princeton, Alabama, Louisville, 
+Notre Dame, North Carolina, Florida, Florida, 
+Tennessee, Tennessee, Georgia, Ohio State, 
+Vanderbilt, Mississippi St, West Virginia, Indiana U, 
+Pennsylvania, Oklahoma, Washington U, Auburn, 
+South Carolina, South Carolina, Portland U, LSU
+</winCollection>
+	<lossCollection>Connecticut, North Carolina, Georgia, Alabama, 
+Mississippi, Florida, Vanderbilt, Arkansas, 
+Connecticut</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Florida</team>
+	<numWins>26</numWins>
+	<numLosses>7</numLosses>
+	<pageRank>35.395</pageRank>
+	<bcsRank>15</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/57.gif</iconURL>
+	<winCollection>Mississippi, Fla Atlantic, Kent State, Kansas State, 
+NC Wilmington, Arkansas, Florida State, Alabama, 
+BYU, Tennessee, Tennessee, Tennessee, 
+Morehead State, Kentucky, Georgia, Georgia, 
+UCLA, Vanderbilt, Vanderbilt, Vanderbilt, 
+Cal Santa Barb, Xavier, Rhode Island, Auburn, 
+South Carolina, LSU</winCollection>
+	<lossCollection>Ohio State, Central Florida, South Carolina, Mississippi St, 
+Kentucky, Kentucky, Butler</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Hampton</team>
+	<numWins>8</numWins>
+	<numLosses>4</numLosses>
+	<pageRank>35.129</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2261.gif</iconURL>
+	<winCollection>Boston U, Colorado State, MD Eastern Shore, MD Eastern Shore, 
+Norfolk St, Geo Washington, Winthrop, Morgan State
+</winCollection>
+	<lossCollection>Wake Forest, San Francisco, N. Carolina AT, Duke
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Wisconsin</team>
+	<numWins>21</numWins>
+	<numLosses>9</numLosses>
+	<pageRank>35.109</pageRank>
+	<bcsRank>16</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/275.gif</iconURL>
+	<winCollection>Minnesota U, Michigan, Michigan, Kansas State, 
+Marquette, Penn State, Michigan State, Boston College, 
+Belmont, Manhattan, Iowa, Illinois, 
+Wisc Milwaukee, Purdue, Ohio State, NC State, 
+Indiana U, Indiana U, Northwestern, Northwestern, 
+Wisc Green Bay</winCollection>
+	<lossCollection>UNLV, Notre Dame, Illinois, Michigan State, 
+Penn State, Purdue, Ohio State, Penn State, 
+Butler</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Kent State</team>
+	<numWins>23</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>35.034</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2309.gif</iconURL>
+	<winCollection>Buffalo, Buffalo, No Illinois, Robert Morris, 
+Fairfield, Bowling Green, Bowling Green, Saint Marys CA, 
+UL Monroe, Youngstown State, Ball State, Ball State, 
+Central Michigan, Furman, Bryant, Eastern Michigan, 
+South Florida, Akron, Ohio, Miami Ohio, 
+Western Michigan, Toledo, Iona</winCollection>
+	<lossCollection>Cleveland State, UAB, Florida, Morehead State, 
+James Madison, Akron, Buffalo, Miami Ohio, 
+Drexel, Ohio, Akron, Colorado
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Pittsburgh</team>
+	<numWins>23</numWins>
+	<numLosses>6</numLosses>
+	<pageRank>34.927</pageRank>
+	<bcsRank>4</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/221.gif</iconURL>
+	<winCollection>NC Asheville, Cincinnati, Texas, Marquette, 
+Depaul, Providence, Georgetown, Syracuse, 
+Seton Hall, Villanova, Villanova, Rider, 
+Connecticut, Rutgers, Duquesne, West Virginia, 
+West Virginia, Maryland, South Florida, South Florida, 
+Pennsylvania, Illinois Chicago, Rhode Island</winCollection>
+	<lossCollection>Tennessee, Notre Dame, St. Johns, Louisville, 
+Connecticut, Butler</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Butler</team>
+	<numWins>26</numWins>
+	<numLosses>10</numLosses>
+	<pageRank>34.789</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2086.gif</iconURL>
+	<winCollection>Old Dominion, Cleveland State, Cleveland State, Cleveland State, 
+Wisconsin, Valparaiso, Washington State, Va Commonwealth, 
+Florida State, Pittsburgh, Youngstown State, Ball State, 
+Loyola Chicago, Loyola Chicago, Florida, Siena, 
+Wisc Milwaukee, Wright State, Utah U, Stanford, 
+Illinois Chicago, Illinois Chicago, Detroit U, Detroit U, 
+Wisc Green Bay, Wisc Green Bay</winCollection>
+	<lossCollection>Louisville, Evansville, Duke, Xavier, 
+Wisc Milwaukee, Wright State, Wisc Milwaukee, Valparaiso, 
+Youngstown State, Connecticut</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Oakland</team>
+	<numWins>25</numWins>
+	<numLosses>10</numLosses>
+	<pageRank>34.784</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2473.gif</iconURL>
+	<winCollection>South Dakota St, South Dakota St, South Dakota St, Austin Peay, 
+Southern Utah, Southern Utah, Southern Utah, Western Illinois, 
+Western Illinois, Rochester College, IPFW, IPFW, 
+Tennessee, Centenary, Centenary, UMKC, 
+UMKC, Southern, Oral Roberts, Oral Roberts, 
+Oral Roberts, IUPUI, N Dakota St, N Dakota St, 
+Ohio</winCollection>
+	<lossCollection>West Virginia, Purdue, Wright State, Illinois, 
+Michigan State, Michigan, Valparaiso, Ohio State, 
+IUPUI, Texas</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Texas</team>
+	<numWins>23</numWins>
+	<numLosses>8</numLosses>
+	<pageRank>34.739</pageRank>
+	<bcsRank>8</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/251.gif</iconURL>
+	<winCollection>Texas Tech, Texas Tech, Arkansas, Baylor, 
+Baylor, Michigan State, Navy, North Carolina, 
+Illinois, Iowa State, Texas AM, Texas AM, 
+Texas AM, Oakland, Missouri, Rice, 
+Kansas, Oklahoma State, Oklahoma State, Louisiana Tech, 
+Oklahoma, Oklahoma, Oklahoma</winCollection>
+	<lossCollection>Pittsburgh, USC, Connecticut, Nebraska, 
+Colorado, Kansas State, Kansas, Arizona
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Notre Dame</team>
+	<numWins>23</numWins>
+	<numLosses>7</numLosses>
+	<pageRank>34.472</pageRank>
+	<bcsRank>5</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/87.gif</iconURL>
+	<winCollection>Indiana State, Cincinnati, Cincinnati, Marquette, 
+Depaul, Providence, Georgetown, St. Johns, 
+Wisconsin, Seton Hall, Villanova, Pittsburgh, 
+Louisville, Georgia Southern, Georgia, California, 
+Connecticut, Connecticut, Rutgers, Gonzaga, 
+South Florida, Akron, Stony Brook</winCollection>
+	<lossCollection>Kentucky, Syracuse, Marquette, St. Johns, 
+West Virginia, Louisville, Florida State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Purdue</team>
+	<numWins>23</numWins>
+	<numLosses>8</numLosses>
+	<pageRank>34.278</pageRank>
+	<bcsRank>13</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2509.gif</iconURL>
+	<winCollection>Indiana State, Minnesota U, Austin Peay, Michigan, 
+Penn State, Penn State, Wisconsin, Valparaiso, 
+Alabama, Michigan State, Michigan State, IPFW, 
+Iowa, Illinois, Illinois, Oakland, 
+Ohio State, St. Peters, Virginia Tech, So Illinois, 
+Indiana U, Indiana U, Northwestern</winCollection>
+	<lossCollection>Richmond, Minnesota U, West Virginia, Ohio State, 
+Wisconsin, Iowa, Michigan State, Va Commonwealth
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Arizona</team>
+	<numWins>28</numWins>
+	<numLosses>8</numLosses>
+	<pageRank>34.164</pageRank>
+	<bcsRank>17</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/12.gif</iconURL>
+	<winCollection>Arizona State, Arizona State, Duke, Texas, 
+Washington State, Washington State, Oregon State, Oregon State, 
+No. Colorado, CS Fullerton, UCLA, NC State, 
+California, California, Rice, Oregon, 
+Oregon, Memphis U, USC, USC, 
+Stanford, Stanford, Northern Arizona, New Mexico State, 
+Idaho State, Oklahoma, Washington U, Santa Clara
+</winCollection>
+	<lossCollection>Kansas, BYU, Oregon State, Washington U, 
+USC, UCLA, Washington U, Connecticut
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Boston U</team>
+	<numWins>9</numWins>
+	<numLosses>4</numLosses>
+	<pageRank>33.992</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/104.gif</iconURL>
+	<winCollection>New Hampshire, Vermont, Vermont, Geo Washington, 
+Hartford, Canisius, Stony Brook, Stony Brook, 
+Nevada</winCollection>
+	<lossCollection>Villanova, Hampton, Maine, Kansas
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Georgetown</team>
+	<numWins>20</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>33.748</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/46.gif</iconURL>
+	<winCollection>Old Dominion, Marquette, Depaul, Providence, 
+St. Johns, Syracuse, Loyola Maryland, Seton Hall, 
+Villanova, Louisville, Coastal Carolina, Utah State, 
+Missouri, NC State, Rutgers, South Florida, 
+Memphis U, Tulane, Appalachian St, Wofford
+</winCollection>
+	<lossCollection>Temple, Notre Dame, St. Johns, West Virginia, 
+Pittsburgh, Connecticut, Cincinnati, Syracuse, 
+Cincinnati, Connecticut, Va Commonwealth</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Iona</team>
+	<numWins>21</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>33.580</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/314.gif</iconURL>
+	<winCollection>Niagara, Niagara, Buffalo, Valparaiso, 
+Fairfield, Loyola Maryland, Rider, Rider, 
+E Tennessee St, Manhattan, Manhattan, Siena, 
+Siena, Marist, Marist, St. Peters, 
+St. Peters, Liberty, Canisius, Richmond, 
+Hofstra</winCollection>
+	<lossCollection>Kent State, Cleveland State, Bryant, Syracuse, 
+Siena, Canisius, Rider, Loyola Maryland, 
+Fairfield, St. Peters, Santa Clara</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Syracuse</team>
+	<numWins>25</numWins>
+	<numLosses>8</numLosses>
+	<pageRank>33.545</pageRank>
+	<bcsRank>12</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/183.gif</iconURL>
+	<winCollection>Indiana State, Cincinnati, Michigan, Depaul, 
+Providence, Georgetown, St. Johns, St. Johns, 
+Seton Hall, Villanova, Michigan State, Notre Dame, 
+Northern Iowa, Georgia Tech, NC State, Connecticut, 
+Rutgers, Cornell, West Virginia, Canisius, 
+South Florida, William  Mary, Drexel, Detroit U, 
+Iona</winCollection>
+	<lossCollection>Pittsburgh, Villanova, Seton Hall, Marquette, 
+Georgetown, Louisville, Connecticut, Marquette
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Louisville</team>
+	<numWins>22</numWins>
+	<numLosses>10</numLosses>
+	<pageRank>33.524</pageRank>
+	<bcsRank>14</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/97.gif</iconURL>
+	<winCollection>Marshall, Butler, Marquette, Marquette, 
+Depaul, Providence, St. Johns, Syracuse, 
+Seton Hall, South Alabama, Pittsburgh, Notre Dame, 
+UNLV, San Francisco, Connecticut, Connecticut, 
+Rutgers, Western Kentucky, West Virginia, South Florida, 
+Florida Intl, Tennessee Chat</winCollection>
+	<lossCollection>Drexel, Kentucky, Villanova, Providence, 
+Georgetown, Notre Dame, Cincinnati, West Virginia, 
+Connecticut, Morehead State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Tennessee</team>
+	<numWins>18</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>33.497</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2633.gif</iconURL>
+	<winCollection>Mississippi, Tenn Martin, Middle Tenn St, Villanova, 
+Arkansas, Va Commonwealth, Pittsburgh, Belmont, 
+Missouri St, Georgia, Vanderbilt, Vanderbilt, 
+Memphis U, Auburn, South Carolina, South Carolina, 
+LSU, Tennessee Chat</winCollection>
+	<lossCollection>Oakland, Charlotte U, USC, Coll Charleston, 
+Arkansas, Florida, Connecticut, Alabama, 
+Kentucky, Florida, Georgia, Mississippi St, 
+Kentucky, Florida, Michigan</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Wichita State</team>
+	<numWins>25</numWins>
+	<numLosses>8</numLosses>
+	<pageRank>33.478</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2724.gif</iconURL>
+	<winCollection>Indiana State, Indiana State, Bradley, Bradley, 
+Bradley, Creighton, Creighton, Coll Charleston, 
+Virginia, Washington State, Illinois State, Illinois State, 
+Nebraska, Alabama, Evansville, Evansville, 
+Northern Iowa, Drake, Drake, UMKC, 
+Virginia Tech, So Illinois, Chaminade, Tulsa, 
+LSU</winCollection>
+	<lossCollection>Connecticut, San Diego State, Missouri St, Northern Iowa, 
+So Illinois, Va Commonwealth, Missouri St, Indiana State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Old Dominion</team>
+	<numWins>24</numWins>
+	<numLosses>7</numLosses>
+	<pageRank>33.421</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/295.gif</iconURL>
+	<winCollection>George Mason, Cleveland State, East Carolina, NC Wilmington, 
+Georgia State, Georgia State, Va Commonwealth, Va Commonwealth, 
+James Madison, James Madison, Clemson, Towson, 
+Towson, St. Peters, Northeastern, Dayton, 
+Xavier, William  Mary, William  Mary, Delaware, 
+Delaware, Richmond, Hofstra, Hofstra
+</winCollection>
+	<lossCollection>Georgetown, Delaware, Missouri, Drexel, 
+Va Commonwealth, George Mason, Butler</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Cleveland State</team>
+	<numWins>23</numWins>
+	<numLosses>9</numLosses>
+	<pageRank>33.297</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/325.gif</iconURL>
+	<winCollection>Kent State, Vermont, Valparaiso, Youngstown State, 
+Youngstown State, St. Bonaventure, Loyola Chicago, Loyola Chicago, 
+UL Lafayette, Wisc Milwaukee, Wright State, Wright State, 
+Wright State, Bryant, South Florida, Akron, 
+Illinois Chicago, Illinois Chicago, Illinois Chicago, Detroit U, 
+Wisc Green Bay, Wisc Green Bay, Iona</winCollection>
+	<lossCollection>West Virginia, Butler, Valparaiso, Butler, 
+Detroit U, Old Dominion, Wisc Milwaukee, Butler, 
+Coll Charleston</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Kansas State</team>
+	<numWins>17</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>33.190</pageRank>
+	<bcsRank>21</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2306.gif</iconURL>
+	<winCollection>Texas Tech, Texas, Washington State, Nebraska, 
+Nebraska, James Madison, Baylor, Loyola Chicago, 
+Iowa State, Iowa State, Utah State, Missouri, 
+UMKC, Virginia Tech, Kansas, Gonzaga, 
+Oklahoma</winCollection>
+	<lossCollection>Duke, Florida, UNLV, Oklahoma State, 
+Colorado, Missouri, Texas AM, Kansas, 
+Colorado, Colorado, Wisconsin</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>E Tennessee St</team>
+	<numWins>8</numWins>
+	<numLosses>6</numLosses>
+	<pageRank>33.186</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2193.gif</iconURL>
+	<winCollection>Furman, Jacksonville, Fla Gulf Coast, Ohio, 
+Appalachian St, North Florida, Campbell, Lipscomb
+</winCollection>
+	<lossCollection>So Mississippi, Northeastern, Belmont, Stetson, 
+North Florida, Iona</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>George Mason</team>
+	<numWins>25</numWins>
+	<numLosses>7</numLosses>
+	<pageRank>33.182</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2244.gif</iconURL>
+	<winCollection>Old Dominion, Fla Atlantic, NC Wilmington, NC Wilmington, 
+Loyola Maryland, Harvard, Villanova, Georgia State, 
+Georgia State, Georgia State, Charlotte U, Va Commonwealth, 
+James Madison, James Madison, Northern Iowa, Geo Washington, 
+Towson, Northeastern, Northeastern, Duquesne, 
+William  Mary, Drexel, Delaware, Delaware, 
+Hofstra</winCollection>
+	<lossCollection>NC State, Wofford, Dayton, Hofstra, 
+Old Dominion, Va Commonwealth, Ohio State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>James Madison</team>
+	<numWins>19</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>33.144</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/256.gif</iconURL>
+	<winCollection>Presbyterian, Marshall, Kent State, Princeton, 
+NC Wilmington, The Citadel, Georgia State, Va Commonwealth, 
+Towson, Towson, Northeastern, Eastern Michigan, 
+South Florida, William  Mary, Drexel, Drexel, 
+Delaware, Bucknell, Miami Ohio</winCollection>
+	<lossCollection>Kansas State, Georgia State, Marshall, Old Dominion, 
+George Mason, Hofstra, William  Mary, Va Commonwealth, 
+George Mason, Old Dominion, William  Mary, Davidson
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Valparaiso</team>
+	<numWins>21</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>33.139</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2674.gif</iconURL>
+	<winCollection>Cleveland State, Butler, Youngstown State, Youngstown State, 
+Youngstown State, No. Colorado, Ball State, IPFW, 
+Loyola Chicago, Missouri St, Oakland, Wisc Milwaukee, 
+Wright State, Wright State, Texas AM Corpus, Eastern Michigan, 
+Illinois Chicago, Illinois Chicago, Detroit U, Detroit U, 
+Detroit U</winCollection>
+	<lossCollection>Kansas, Ohio, Purdue, Toledo, 
+Butler, Wisc Green Bay, Cleveland State, Wisc Milwaukee, 
+Wisc Green Bay, Loyola Chicago, Wisc Milwaukee, Iona
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Princeton</team>
+	<numWins>21</numWins>
+	<numLosses>7</numLosses>
+	<pageRank>33.080</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/163.gif</iconURL>
+	<winCollection>Harvard, Harvard, Siena, Marist, 
+Towson, Dartmouth, Dartmouth, Northeastern, 
+Yale, Yale, Rutgers, Cornell, 
+Cornell, Tulsa, St. Josephs, Pennsylvania, 
+Pennsylvania, Bucknell, Columbia, Columbia, 
+Brown</winCollection>
+	<lossCollection>Duke, James Madison, Presbyterian, Central Florida, 
+Brown, Harvard, Kentucky</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Richmond</team>
+	<numWins>27</numWins>
+	<numLosses>7</numLosses>
+	<pageRank>33.011</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/257.gif</iconURL>
+	<winCollection>Arizona State, NC Greensboro, Fordham, LaSalle, 
+Seton Hall, The Citadel, Charlotte U, Charlotte U, 
+Va Commonwealth, St. Bonaventure, Morehead State, Geo Washington, 
+Geo Washington, Wake Forest, Purdue, Vanderbilt, 
+Duquesne, Wright State, Massachusetts, Dayton, 
+Dayton, St. Josephs, St. Josephs, William  Mary, 
+Saint Louis, Temple, Rhode Island</winCollection>
+	<lossCollection>Iona, Old Dominion, Georgia Tech, Rhode Island, 
+Xavier, Temple, Kansas</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>St. Johns</team>
+	<numWins>19</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>32.757</pageRank>
+	<bcsRank>18</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2599.gif</iconURL>
+	<winCollection>Cincinnati, Duke, Marquette, Depaul, 
+Providence, Georgetown, Davidson, Villanova, 
+Pittsburgh, Notre Dame, Ball State, Drake, 
+Connecticut, Rutgers, Rutgers, West Virginia, 
+South Florida, Northwestern, Columbia</winCollection>
+	<lossCollection>Saint Marys CA, Arizona State, St. Bonaventure, Fordham, 
+Notre Dame, Syracuse, Louisville, Cincinnati, 
+Georgetown, UCLA, Seton Hall, Syracuse, 
+Gonzaga</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Utah State</team>
+	<numWins>27</numWins>
+	<numLosses>4</numLosses>
+	<pageRank>32.544</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/328.gif</iconURL>
+	<winCollection>Idaho U, Troy, Southern Utah, Saint Marys CA, 
+Weber State, Hawaii, Hawaii, Long Beach State, 
+Denver U, Boise State, Boise State, Boise State, 
+Northeastern, San Jose State, San Jose State, San Jose State, 
+Utah U, Fresno State, Fresno State, Nevada, 
+Nevada, New Mexico State, New Mexico State, Louisiana Tech, 
+Louisiana Tech, Idaho State, Western Michigan</winCollection>
+	<lossCollection>BYU, Georgetown, Idaho U, Kansas State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Michigan State</team>
+	<numWins>18</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>32.425</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/127.gif</iconURL>
+	<winCollection>Minnesota U, Minnesota U, Penn State, Wisconsin, 
+Bowling Green, Iowa, Iowa, Illinois, 
+Oakland, Purdue, Chaminade, Indiana U, 
+Eastern Michigan, Northwestern, Northwestern, Washington U, 
+South Carolina, Tennessee Tech</winCollection>
+	<lossCollection>Connecticut, Duke, Syracuse, Texas, 
+Penn State, Illinois, Purdue, Michigan, 
+Iowa, Wisconsin, Ohio State, Purdue, 
+Michigan, Penn State, UCLA</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Weber State</team>
+	<numWins>15</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>32.396</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2692.gif</iconURL>
+	<winCollection>Portland State, Southern Utah, E. Washington, E. Washington, 
+Montana State, No. Colorado, Montana, Alaska Anchorage, 
+Drake, Sacramento State, Sacramento State, Northern Arizona, 
+Northern Arizona, Idaho State, Idaho State</winCollection>
+	<lossCollection>Utah State, Utah U, Arizona State, Tulsa, 
+BYU, Montana State, Montana, Portland State, 
+No. Colorado, San Jose State, E. Washington, Montana, 
+Saint Marys CA, Oregon</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>San Francisco</team>
+	<numWins>17</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>32.374</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2539.gif</iconURL>
+	<winCollection>Idaho U, Dominican Cal, Hawaii, Montana, 
+Hampton, Gonzaga, Colorado, Portland U, 
+Portland U, San Diego, San Diego, Santa Clara, 
+Santa Clara, Loyola Marymount, Loyola Marymount, Pepperdine, 
+Pepperdine</winCollection>
+	<lossCollection>San Jose State, Montana State, Loyola Chicago, Louisville, 
+Washington U, San Diego State, IUPUI, Colorado State, 
+Saint Marys CA, Pepperdine, Saint Marys CA, Gonzaga, 
+Gonzaga, Santa Clara</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>UTEP</team>
+	<numWins>21</numWins>
+	<numLosses>10</numLosses>
+	<pageRank>32.370</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2638.gif</iconURL>
+	<winCollection>Texas Tech, Marshall, Marshall, Western Carolina, 
+Michigan, UL Monroe, Houston U, Houston U, 
+Rice, Rice, Air Force, Western New Mexico, 
+Tulsa, Tulsa, Memphis U, Tulane, 
+Tulane, New Mexico State, New Mexico State, SMU, 
+SMU</winCollection>
+	<lossCollection>Pacific, Georgia Tech, BYU, UAB, 
+Tulsa, So Mississippi, Central Florida, East Carolina, 
+Memphis U, New Mexico</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Memphis U</team>
+	<numWins>22</numWins>
+	<numLosses>10</numLosses>
+	<pageRank>32.357</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/235.gif</iconURL>
+	<winCollection>Central Florida, Central Florida, Marshall, UTEP, 
+Austin Peay, Tenn Martin, East Carolina, East Carolina, 
+So Mississippi, So Mississippi, So Mississippi, Miami Florida, 
+Centenary, Houston U, Arkansas State, Gonzaga, 
+Western Kentucky, Tennessee State, Tulane, UAB, 
+UAB, LSU</winCollection>
+	<lossCollection>Kansas, Georgetown, Tennessee, SMU, 
+Marshall, Tulsa, Rice, UTEP, 
+East Carolina, Arizona</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>William  Mary</team>
+	<numWins>8</numWins>
+	<numLosses>20</numLosses>
+	<pageRank>32.229</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2729.gif</iconURL>
+	<winCollection>Gardner Webb, Georgia State, James Madison, James Madison, 
+Towson, Radford, Mercer, Drexel
+</winCollection>
+	<lossCollection>Virginia, Richmond, Syracuse, Western Carolina, 
+Va Commonwealth, North Carolina, NC Wilmington, Delaware, 
+James Madison, Va Commonwealth, Hofstra, Northeastern, 
+Delaware, George Mason, NC Wilmington, Old Dominion, 
+Drexel, Hofstra, Old Dominion, Hofstra
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>UCLA</team>
+	<numWins>23</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>32.197</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/26.gif</iconURL>
+	<winCollection>Arizona State, Arizona State, CS Northridge, St. Johns, 
+Washington State, Washington State, Cal Poly SLO, Oregon State, 
+Oregon State, Michigan State, Montana State, BYU, 
+Cal Irvine, UC Davis, California, Arizona, 
+Oregon, Oregon, USC, Stanford, 
+Stanford, Pacific, Pepperdine</winCollection>
+	<lossCollection>Villanova, Va Commonwealth, Kansas, Montana, 
+Washington U, USC, Arizona, California, 
+Washington U, Oregon, Florida</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Xavier</team>
+	<numWins>23</numWins>
+	<numLosses>8</numLosses>
+	<pageRank>32.156</pageRank>
+	<bcsRank>20</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2752.gif</iconURL>
+	<winCollection>Fordham, LaSalle, Butler, Seton Hall, 
+Charlotte U, IPFW, St. Bonaventure, Iowa, 
+Geo Washington, Georgia, Wake Forest, Duquesne, 
+Massachusetts, Dayton, Dayton, St. Josephs, 
+Saint Louis, Saint Louis, Temple, Rhode Island, 
+Western Michigan, Wofford, Richmond</winCollection>
+	<lossCollection>Old Dominion, Miami Ohio, Gonzaga, Florida, 
+Cincinnati, Charlotte U, Dayton, Marquette
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Idaho U</team>
+	<numWins>15</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>32.152</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/456.gif</iconURL>
+	<winCollection>Monmouth, E. Washington, Montana State, Hawaii, 
+Hawaii, North Dakota, Utah State, San Jose State, 
+Oregon, Eastern Michigan, Fresno State, Fresno State, 
+Nevada, Nevada, Louisiana Tech</winCollection>
+	<lossCollection>Washington State, Portland U, Montana, Montana, 
+New Mexico State, Boise State, Louisiana Tech, New Mexico State, 
+San Jose State, Boise State, Utah State, San Jose State, 
+San Francisco</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Alabama</team>
+	<numWins>21</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>32.106</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/333.gif</iconURL>
+	<winCollection>Mississippi, Troy, Arkansas, South Alabama, 
+Miami Florida, Coastal Carolina, Tennessee, Kentucky, 
+Georgia, Georgia, Mississippi St, Mississippi St, 
+Colorado, Auburn, Auburn, South Carolina, 
+New Mexico, Toledo, LSU, LSU, 
+Pepperdine</winCollection>
+	<lossCollection>Seton Hall, Iowa, St. Peters, Purdue, 
+Providence, Oklahoma State, Arkansas, Vanderbilt, 
+Mississippi, Florida, Kentucky, Wichita State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Temple</team>
+	<numWins>26</numWins>
+	<numLosses>8</numLosses>
+	<pageRank>32.096</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/218.gif</iconURL>
+	<winCollection>Fordham, Fordham, LaSalle, LaSalle, 
+LaSalle, Penn State, Georgetown, No Illinois, 
+Seton Hall, Charlotte U, St. Bonaventure, Central Michigan, 
+Geo Washington, Georgia, Maryland, Massachusetts, 
+Akron, Dayton, St. Josephs, St. Josephs, 
+Pennsylvania, Saint Louis, Ohio, Rhode Island, 
+Toledo, Richmond</winCollection>
+	<lossCollection>California, Texas AM, Villanova, Duquesne, 
+Xavier, Duke, Richmond, San Diego State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Belmont</team>
+	<numWins>10</numWins>
+	<numLosses>2</numLosses>
+	<pageRank>32.070</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2057.gif</iconURL>
+	<winCollection>Kennesaw St, E Tennessee St, Marist, Stetson, 
+USC Upstate, Arkansas State, Mercer, Winthrop, 
+Fla Gulf Coast, North Florida</winCollection>
+	<lossCollection>Tennessee, Wisconsin</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Missouri St</team>
+	<numWins>25</numWins>
+	<numLosses>9</numLosses>
+	<pageRank>32.012</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2623.gif</iconURL>
+	<winCollection>Indiana State, Bradley, Bradley, Creighton, 
+Creighton, Creighton, Murray State, Wichita State, 
+Wichita State, Illinois State, Illinois State, Evansville, 
+Northern Iowa, Drake, Drake, Arkansas LR, 
+Oral Roberts, Arkansas State, Arkansas State, So Illinois, 
+So Illinois, So Illinois, Saint Louis, Pacific, 
+Pepperdine</winCollection>
+	<lossCollection>Tennessee, Tulsa, Oklahoma State, Indiana State, 
+Northern Iowa, Evansville, Valparaiso, Indiana State, 
+Miami Florida</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Colorado</team>
+	<numWins>18</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>31.966</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/38.gif</iconURL>
+	<winCollection>Texas Tech, Texas, Kent State, Kansas State, 
+Kansas State, Kansas State, Colorado State, The Citadel, 
+Nebraska, Oregon State, Texas Southern, Iowa State, 
+Iowa State, Missouri, California, Indiana U, 
+Oklahoma State, Idaho State</winCollection>
+	<lossCollection>Georgia, San Francisco, Harvard, New Mexico, 
+Nebraska, Oklahoma, Kansas, Baylor, 
+Missouri, Texas AM, Kansas, Iowa State, 
+Kansas, Alabama</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>West Virginia</team>
+	<numWins>18</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>31.963</pageRank>
+	<bcsRank>22</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/277.gif</iconURL>
+	<winCollection>Cincinnati, Cleveland State, Depaul, Depaul, 
+Providence, Georgetown, Seton Hall, Davidson, 
+Louisville, Notre Dame, Clemson, Oakland, 
+Purdue, Vanderbilt, Connecticut, Rutgers, 
+Duquesne, South Florida</winCollection>
+	<lossCollection>Minnesota U, Miami Florida, St. Johns, Marshall, 
+Louisville, Villanova, Pittsburgh, Syracuse, 
+Pittsburgh, Marquette, Kentucky</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Indiana State</team>
+	<numWins>19</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>31.941</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/282.gif</iconURL>
+	<winCollection>Buffalo, Bradley, Bradley, Creighton, 
+Depaul, Wichita State, Illinois State, Illinois State, 
+Evansville, Missouri St, Missouri St, Northern Iowa, 
+Northern Iowa, Drake, Drake, Oral Roberts, 
+Texas-Pan American, So Illinois, So Illinois</winCollection>
+	<lossCollection>Loyola Chicago, Eastern Kentucky, Ball State, Notre Dame, 
+Wyoming, Purdue, Evansville, Wichita State, 
+Evansville, Creighton, Wichita State, Missouri St, 
+Morehead State, Syracuse</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Illinois</team>
+	<numWins>20</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>31.869</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/356.gif</iconURL>
+	<winCollection>Minnesota U, Michigan, Penn State, Wisconsin, 
+Michigan State, No. Colorado, North Carolina, UNLV, 
+Iowa, Iowa, Cal Irvine, Oakland, 
+Yale, So Illinois, Gonzaga, Maryland, 
+Indiana U, Northwestern, Western Michigan, Toledo
+</winCollection>
+	<lossCollection>Texas, Illinois Chicago, Missouri, Penn State, 
+Wisconsin, Ohio State, Indiana U, Northwestern, 
+Purdue, Michigan State, Ohio State, Purdue, 
+Michigan, Kansas</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Washington U</team>
+	<numWins>21</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>31.717</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/264.gif</iconURL>
+	<winCollection>Arizona State, Arizona State, Texas Tech, Washington State, 
+E. Washington, Oregon State, Long Beach State, San Francisco, 
+Georgia, UCLA, UCLA, California, 
+California, Arizona, Arizona, Oregon, 
+Oregon, USC, Stanford, Nevada, 
+Portland U</winCollection>
+	<lossCollection>Kentucky, Michigan State, Texas AM, Stanford, 
+Washington State, Oregon State, Oregon, Arizona, 
+Washington State, USC, North Carolina</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Boston College</team>
+	<numWins>17</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>31.690</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/103.gif</iconURL>
+	<winCollection>Providence, Virginia, Virginia, Georgia Tech, 
+Texas AM, Wake Forest, Wake Forest, NC State, 
+California, Virginia Tech, Virginia Tech, Maryland, 
+Maryland, Indiana U, Massachusetts, McNeese State, 
+South Carolina</winCollection>
+	<lossCollection>Yale, Wisconsin, Rhode Island, Harvard, 
+Miami Florida, Florida State, Duke, North Carolina, 
+Clemson, North Carolina, Miami Florida, Clemson, 
+Northwestern</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>UNLV</team>
+	<numWins>23</numWins>
+	<numLosses>9</numLosses>
+	<pageRank>31.676</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2439.gif</iconURL>
+	<winCollection>Murray State, Kansas State, Cal Riverside, Southern Utah, 
+Wisconsin, Colorado State, Illinois State, Central Michigan, 
+Wyoming, Wyoming, Boise State, TCU, 
+TCU, Virginia Tech, Air Force, Air Force, 
+Air Force, Tulsa, Utah U, Utah U, 
+Nevada, New Mexico, New Mexico</winCollection>
+	<lossCollection>Louisville, Cal Santa Barb, BYU, San Diego State, 
+Colorado State, BYU, San Diego State, San Diego State, 
+Illinois</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Villanova</team>
+	<numWins>18</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>31.632</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/222.gif</iconURL>
+	<winCollection>Cincinnati, LaSalle, Marquette, Boston U, 
+Depaul, Syracuse, Seton Hall, Louisville, 
+Marist, UCLA, Rutgers, West Virginia, 
+Maryland, South Florida, St. Josephs, Pennsylvania, 
+Temple, Delaware</winCollection>
+	<lossCollection>Tennessee, Connecticut, Providence, Georgetown, 
+Rutgers, Pittsburgh, Syracuse, St. Johns, 
+Notre Dame, Pittsburgh, South Florida, George Mason
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>New Mexico</team>
+	<numWins>19</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>31.573</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/167.gif</iconURL>
+	<winCollection>Arizona State, Texas Tech, UTEP, Colorado State, 
+Colorado State, The Citadel, BYU, BYU, 
+Wyoming, TCU, TCU, Air Force, 
+Air Force, So Illinois, Colorado, New Mexico State, 
+New Mexico State, Detroit U, San Diego</winCollection>
+	<lossCollection>California, Northern Iowa, Dayton, Wyoming, 
+San Diego State, Utah U, UNLV, Colorado State, 
+San Diego State, Utah U, UNLV, BYU, 
+Alabama</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Wofford</team>
+	<numWins>20</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>31.540</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2747.gif</iconURL>
+	<winCollection>NC Greensboro, George Mason, Western Carolina, Western Carolina, 
+Coll Charleston, Samford, Samford, Davidson, 
+The Citadel, The Citadel, Ball State, USC-Upstate, 
+Georgia Southern, Georgia Southern, Furman, Elon, 
+Appalachian St, Appalachian St, Tennessee Chat, Tennessee Chat
+</winCollection>
+	<lossCollection>Minnesota U, Clemson, Georgetown, Air Force, 
+Xavier, South Carolina, Va Commonwealth, Cornell, 
+Coll Charleston, Furman, Coll Charleston, Davidson, 
+BYU</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>SMU</team>
+	<numWins>14</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>31.537</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2567.gif</iconURL>
+	<winCollection>Portland State, East Carolina, Lamar, So Mississippi, 
+Northern Iowa, Houston U, Rice, Rice, 
+Oral Roberts, SE Missouri St, Jacksonville, Tulsa, 
+Memphis U, Tulane</winCollection>
+	<lossCollection>Arkansas LR, TCU, Cal Riverside, Louisiana Tech, 
+Mississippi, Tulane, Houston U, UAB, 
+UTEP, Tulsa, Marshall, Central Florida, 
+UTEP, Rice, Santa Clara</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Colorado State</team>
+	<numWins>18</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>31.503</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/36.gif</iconURL>
+	<winCollection>Mississippi, Dominican Cal, So Mississippi, No. Colorado, 
+UNLV, Denver U, San Francisco, Wyoming, 
+Wyoming, Drake, TCU, TCU, 
+Air Force, Utah U, Utah U, Fresno State, 
+Appalachian St, New Mexico</winCollection>
+	<lossCollection>Colorado, Kansas, Hampton, New Mexico, 
+BYU, San Diego State, UNLV, BYU, 
+Air Force, San Diego State, New Mexico, Fairfield
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Coll Charleston</team>
+	<numWins>22</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>31.489</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/232.gif</iconURL>
+	<winCollection>NC Greensboro, Western Carolina, Cleveland State, Vermont, 
+Samford, Davidson, The Citadel, The Citadel, 
+Georgia Southern, Georgia Southern, Tennessee, Furman, 
+Furman, Furman, Elon, Elon, 
+Dayton, Illinois Chicago, Appalachian St, Wofford, 
+Wofford, Toledo</winCollection>
+	<lossCollection>Maryland, Rhode Island, North Carolina, Clemson, 
+Morehead State, Tennessee Chat, Davidson, Appalachian St, 
+Western Carolina, Wofford, Wichita State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Virginia Tech</team>
+	<numWins>18</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>31.464</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/259.gif</iconURL>
+	<winCollection>NC Greensboro, Duke, Penn State, CS Northridge, 
+Bethune Cookman, Florida State, Florida State, St. Bonaventure, 
+Miami Florida, Georgia Tech, Georgia Tech, Wake Forest, 
+Wake Forest, NC State, Mississippi St, Maryland, 
+Maryland, Oklahoma State</winCollection>
+	<lossCollection>Kansas State, UNLV, Purdue, Virginia, 
+North Carolina, Georgia Tech, Boston College, Virginia, 
+Boston College, Clemson, Duke, Wichita State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>UAB</team>
+	<numWins>21</numWins>
+	<numLosses>9</numLosses>
+	<pageRank>31.454</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/5.gif</iconURL>
+	<winCollection>Central Florida, Central Florida, Troy, Marshall, 
+Marshall, Jacksonville St, UTEP, Kent State, 
+East Carolina, East Carolina, Middle Tenn St, Arkansas, 
+Va Commonwealth, South Alabama, So Mississippi, Geo Washington, 
+Houston U, Rice, SE Missouri St, Tulane, 
+SMU</winCollection>
+	<lossCollection>Arizona State, Georgia, Duke, Tulsa, 
+Memphis U, So Mississippi, Memphis U, East Carolina, 
+Clemson</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Vanderbilt</team>
+	<numWins>19</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>31.394</pageRank>
+	<bcsRank>25</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/238.gif</iconURL>
+	<winCollection>Mississippi, Marquette, Middle Tenn St, Davidson, 
+Nebraska, Saint Marys CA, Alabama, North Carolina, 
+Kentucky, Georgia, Georgia, Mississippi St, 
+Mississippi St, Western Kentucky, Appalachian St, Auburn, 
+South Carolina, LSU, LSU</winCollection>
+	<lossCollection>West Virginia, Missouri, South Carolina, Tennessee, 
+Arkansas, Florida, Tennessee, Kentucky, 
+Florida, Florida, Richmond</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Morehead State</team>
+	<numWins>20</numWins>
+	<numLosses>10</numLosses>
+	<pageRank>31.358</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2413.gif</iconURL>
+	<winCollection>Eastern Kentucky, Indiana State, Jacksonville St, Jacksonville St, 
+Austin Peay, Austin Peay, Kent State, Murray State, 
+Tenn Martin, Tenn Martin, Coll Charleston, Louisville, 
+Ball State, SE Missouri St, SE Missouri St, Tennessee State, 
+Eastern Illinois, Tennessee Tech, Tennessee Tech, Tennessee Tech
+</winCollection>
+	<lossCollection>NC Wilmington, Florida, Ohio State, Northern Iowa, 
+Tennessee State, Austin Peay, Eastern Illinois, Eastern Kentucky, 
+Murray State, Richmond</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Gonzaga</team>
+	<numWins>21</numWins>
+	<numLosses>10</numLosses>
+	<pageRank>31.321</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2250.gif</iconURL>
+	<winCollection>Marquette, St. Johns, Saint Marys CA, Saint Marys CA, 
+Baylor, E. Washington, San Francisco, San Francisco, 
+Wake Forest, IUPUI, Oklahoma State, Xavier, 
+Portland U, Portland U, San Diego, San Diego, 
+Santa Clara, Loyola Marymount, Loyola Marymount, Pepperdine, 
+Pepperdine</winCollection>
+	<lossCollection>San Diego State, Kansas State, Illinois, Washington State, 
+Notre Dame, Santa Clara, San Francisco, Saint Marys CA, 
+Memphis U, BYU</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Austin Peay</team>
+	<numWins>18</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>31.200</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2046.gif</iconURL>
+	<winCollection>Eastern Kentucky, Eastern Kentucky, Jacksonville St, Jacksonville St, 
+Murray State, Tenn Martin, Tenn Martin, Charleston Sou, 
+Morehead State, SE Missouri St, SE Missouri St, SE Missouri St, 
+Tennessee State, Eastern Illinois, Eastern Illinois, Saint Louis, 
+Tennessee Chat, Tennessee Chat</winCollection>
+	<lossCollection>So Illinois, Purdue, Oakland, Memphis U, 
+Tennessee State, Tennessee Tech, Morehead State, Murray State, 
+Tennessee Tech, Fairfield, Morehead State, Boise State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Florida State</team>
+	<numWins>18</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>31.119</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/52.gif</iconURL>
+	<winCollection>NC Greensboro, Duke, Virginia, Baylor, 
+Boston College, Notre Dame, Hawaii, Miami Florida, 
+Miami Florida, Georgia Tech, Clemson, Texas AM, 
+Wake Forest, Wake Forest, NC State, NC State, 
+Florida Intl, Loyola Marymount</winCollection>
+	<lossCollection>Florida, Ohio State, Butler, Auburn, 
+Virginia Tech, Clemson, North Carolina, Maryland, 
+North Carolina, Virginia Tech, Va Commonwealth</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Northeastern</team>
+	<numWins>10</numWins>
+	<numLosses>20</numLosses>
+	<pageRank>31.057</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/111.gif</iconURL>
+	<winCollection>NC Asheville, NC Wilmington, NC Wilmington, Georgia State, 
+Va Commonwealth, E Tennessee St, Towson, Texas State, 
+So Illinois, William  Mary</winCollection>
+	<lossCollection>Siena, Utah State, Providence, Drexel, 
+Rhode Island, Saint Louis, Princeton, Furman, 
+James Madison, Old Dominion, Hofstra, George Mason, 
+Va Commonwealth, Delaware, Drexel, Hofstra, 
+Georgia State, Delaware, George Mason, Delaware
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Buffalo</team>
+	<numWins>17</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>31.049</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2084.gif</iconURL>
+	<winCollection>Niagara, Kent State, Quinnipiac, No Illinois, 
+Central Michigan, Central Michigan, Towson, Wisc Milwaukee, 
+Cornell, Canisius, Akron, Ohio, 
+Miami Ohio, Wisc Green Bay, Western Michigan, Western Michigan, 
+Toledo</winCollection>
+	<lossCollection>Youngstown State, Indiana State, St. Bonaventure, BYU, 
+Bowling Green, Miami Ohio, Ball State, Eastern Michigan, 
+Ohio, Kent State, Akron, Bowling Green, 
+Kent State, Iona</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Washington State</team>
+	<numWins>20</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>31.045</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/265.gif</iconURL>
+	<winCollection>Arizona State, Idaho U, Baylor, Oregon State, 
+Oregon State, Long Beach State, California, Sacramento State, 
+Mississippi St, Gonzaga, Oregon, Northwestern, 
+Oklahoma State, USC, Fresno State, Stanford, 
+Washington U, Washington U, Portland U, Santa Clara
+</winCollection>
+	<lossCollection>Kansas State, Butler, UCLA, USC, 
+California, Arizona, Oregon, Stanford, 
+Arizona, Arizona State, UCLA, Washington U, 
+Wichita State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Davidson</team>
+	<numWins>16</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>31.033</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2166.gif</iconURL>
+	<winCollection>Presbyterian, NC Greensboro, Coll Charleston, Samford, 
+The Citadel, St. Francis NY, Charlotte U, Nebraska, 
+James Madison, Georgia Southern, Georgia Southern, Furman, 
+Elon, Western Kentucky, Wofford, Tennessee Chat
+</winCollection>
+	<lossCollection>Pennsylvania, West Virginia, Rhode Island, Coll Charleston, 
+St. Johns, Vanderbilt, Appalachian St, Western Carolina, 
+Wofford, NC Greensboro, Elon, The Citadel, 
+Furman, NC Greensboro, Creighton</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Mississippi</team>
+	<numWins>16</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>31.022</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/145.gif</iconURL>
+	<winCollection>Murray State, Penn State, Arkansas, Arkansas, 
+Alabama, So Mississippi, Kentucky, Arkansas LR, 
+Texas State, Arkansas State, Saint Louis, SMU, 
+Auburn, South Carolina, LSU, LSU
+</winCollection>
+	<lossCollection>Dayton, Miami Florida, Colorado State, Florida, 
+Mississippi St, Georgia, Vanderbilt, Tennessee, 
+Alabama, Mississippi St, South Carolina, Auburn, 
+Kentucky, California</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Cincinnati</team>
+	<numWins>21</numWins>
+	<numLosses>9</numLosses>
+	<pageRank>30.968</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2132.gif</iconURL>
+	<winCollection>Marquette, Depaul, Depaul, Providence, 
+Georgetown, Georgetown, St. Johns, Seton Hall, 
+Louisville, IPFW, Georgia Southern, Missouri, 
+Rutgers, Wright State, South Florida, South Florida, 
+Dayton, Xavier, Oklahoma, Miami Ohio, 
+Toledo</winCollection>
+	<lossCollection>Villanova, Syracuse, Notre Dame, West Virginia, 
+Pittsburgh, St. Johns, Connecticut, Notre Dame, 
+Connecticut</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Air Force</team>
+	<numWins>12</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>30.797</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2005.gif</iconURL>
+	<winCollection>CS Northridge, Sam Houston, Colorado State, Evansville, 
+North Dakota, Wyoming, TCU, TCU, 
+Tennessee State, Utah U, Utah U, Wofford
+</winCollection>
+	<lossCollection>Wright State, Northern Arizona, UTEP, BYU, 
+UNLV, San Diego State, Colorado State, New Mexico, 
+BYU, UNLV, San Diego State, Wyoming, 
+New Mexico, UNLV, Santa Clara</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Stony Brook</team>
+	<numWins>5</numWins>
+	<numLosses>5</numLosses>
+	<pageRank>30.747</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2619.gif</iconURL>
+	<winCollection>Vermont, Monmouth, Binghamton, MD Baltimore Co, 
+Albany NY</winCollection>
+	<lossCollection>Notre Dame, Boston U, Vermont, Manhattan, 
+Boston U</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>USC</team>
+	<numWins>18</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>30.706</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/30.gif</iconURL>
+	<winCollection>Arizona State, Arizona State, Texas, Washington State, 
+Oregon State, Tennessee, CS Fullerton, Cal Irvine, 
+UCLA, California, California, Arizona, 
+Stanford, Stanford, Northern Arizona, New Mexico State, 
+Washington U, Santa Clara</winCollection>
+	<lossCollection>Rider, Bradley, Nebraska, TCU, 
+Kansas, Washington U, Oregon, Oregon State, 
+California, Arizona, UCLA, Oregon, 
+Washington State, Arizona, Va Commonwealth</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Clemson</team>
+	<numWins>19</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>30.701</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/228.gif</iconURL>
+	<winCollection>NC Greensboro, Western Carolina, East Carolina, Coll Charleston, 
+Seton Hall, The Citadel, Florida State, Boston College, 
+Boston College, Miami Florida, Miami Florida, Georgia Tech, 
+Georgia Tech, Long Beach State, Wake Forest, NC State, 
+Virginia Tech, UAB, Wofford</winCollection>
+	<lossCollection>Old Dominion, Michigan, South Carolina, Florida State, 
+North Carolina, Maryland, Virginia, North Carolina, 
+NC State, Duke, North Carolina, West Virginia
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Saint Marys CA</team>
+	<numWins>20</numWins>
+	<numLosses>9</numLosses>
+	<pageRank>30.604</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2608.gif</iconURL>
+	<winCollection>Texas Tech, Cal Riverside, St. Johns, Weber State, 
+Long Beach State, Denver U, San Francisco, San Francisco, 
+Mississippi St, Gonzaga, New Mexico State, Portland U, 
+San Diego, Santa Clara, Santa Clara, Santa Clara, 
+Loyola Marymount, Loyola Marymount, Pepperdine, Pepperdine
+</winCollection>
+	<lossCollection>BYU, San Diego State, Vanderbilt, Portland U, 
+San Diego, Utah State, Gonzaga, Gonzaga, 
+Kent State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Tulsa</team>
+	<numWins>18</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>30.522</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/202.gif</iconURL>
+	<winCollection>UTEP, East Carolina, CS Northridge, So Mississippi, 
+Weber State, Missouri St, Houston U, Rice, 
+Rice, Rice, Oral Roberts, TCU, 
+Memphis U, Tulane, Tulane, Stanford, 
+UAB, SMU</winCollection>
+	<lossCollection>Appalachian St, UNLV, Arkansas LR, Oklahoma State, 
+Princeton, Wichita State, UTEP, Arizona State, 
+Houston U, SMU, Central Florida, Marshall, 
+UTEP</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Drexel</team>
+	<numWins>19</numWins>
+	<numLosses>10</numLosses>
+	<pageRank>30.505</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2182.gif</iconURL>
+	<winCollection>Niagara, Old Dominion, Kent State, Loyola Maryland, 
+Georgia State, Va Commonwealth, Rider, Louisville, 
+Towson, Towson, Towson, Northeastern, 
+Northeastern, St. Josephs, Pennsylvania, William  Mary, 
+Delaware, Delaware, Hofstra</winCollection>
+	<lossCollection>Rhode Island, Syracuse, Hofstra, Va Commonwealth, 
+William  Mary, George Mason, James Madison, James Madison, 
+NC Wilmington, Va Commonwealth</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Wisc Milwaukee</team>
+	<numWins>19</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>30.493</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/270.gif</iconURL>
+	<winCollection>Niagara, South Dakota St, Cleveland State, Butler, 
+Butler, Valparaiso, Valparaiso, Bowling Green, 
+Youngstown State, Youngstown State, Loyola Chicago, Northern Iowa, 
+UC Davis, Wright State, Illinois Chicago, Illinois Chicago, 
+Detroit U, Detroit U, Wisc Green Bay</winCollection>
+	<lossCollection>Portland U, Fla Atlantic, Western Michigan, Marquette, 
+Cleveland State, Wisconsin, Depaul, Wright State, 
+Wisc Green Bay, Loyola Chicago, Valparaiso, Buffalo, 
+Butler, Northwestern</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Central Florida</team>
+	<numWins>15</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>30.479</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>IMAGES/helmet.png</iconURL>
+	<winCollection>Marshall, UTEP, Princeton, So Mississippi, 
+St. Bonaventure, Miami Florida, Florida, UL Lafayette, 
+Furman, Massachusetts, South Florida, Tulsa, 
+Tulane, SMU, Rhode Island</winCollection>
+	<lossCollection>Houston U, So Mississippi, East Carolina, Rice, 
+Memphis U, UAB, East Carolina, Memphis U, 
+UAB, Marshall, East Carolina, Creighton
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Oregon</team>
+	<numWins>19</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>30.420</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2483.gif</iconURL>
+	<winCollection>Arizona State, Jacksonville St, Creighton, Creighton, 
+Portland State, Washington State, Oregon State, Oregon State, 
+Weber State, Denver U, UCLA, Boise State, 
+Duquesne, Cal Santa Barb, USC, USC, 
+N Dakota St, Stanford, Washington U</winCollection>
+	<lossCollection>San Jose State, Duke, Missouri, Virginia, 
+Idaho U, Arizona, Arizona State, Washington U, 
+Washington State, UCLA, California, UCLA, 
+California, Stanford, Arizona State, Arizona, 
+Washington U, Creighton</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Akron</team>
+	<numWins>20</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>30.419</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2006.gif</iconURL>
+	<winCollection>Buffalo, Creighton, Kent State, Kent State, 
+Bowling Green, Bowling Green, Youngstown State, Ball State, 
+Central Michigan, Arkansas LR, Stetson, Oral Roberts, 
+Eastern Michigan, Illinois Chicago, Detroit U, Miami Ohio, 
+Miami Ohio, Western Michigan, Western Michigan, Toledo
+</winCollection>
+	<lossCollection>Dayton, Cleveland State, Temple, Minnesota U, 
+Miami Florida, Ohio, Buffalo, Miami Ohio, 
+No Illinois, Eastern Michigan, Ohio, Kent State, 
+Notre Dame</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>No. Colorado</team>
+	<numWins>18</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>30.418</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2458.gif</iconURL>
+	<winCollection>Portland State, Portland State, Bethune Cookman, E. Washington, 
+E. Washington, Montana State, Montana State, Weber State, 
+Montana, Montana, Wyoming, Sacramento State, 
+Sacramento State, Northern Arizona, Northern Arizona, New Mexico State, 
+Idaho State, Idaho State</winCollection>
+	<lossCollection>Arizona, Santa Clara, Valparaiso, Illinois, 
+Denver U, Colorado State, UL Monroe, Weber State, 
+Northern Arizona, Montana, San Diego State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Minnesota U</team>
+	<numWins>17</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>30.383</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/135.gif</iconURL>
+	<winCollection>Eastern Kentucky, South Dakota St, Michigan, North Carolina, 
+Iowa, Iowa, Siena, Purdue, 
+Cornell, Western Kentucky, West Virginia, Indiana U, 
+Akron, Northwestern, St. Josephs, N Dakota St, 
+Wofford</winCollection>
+	<lossCollection>Virginia, Wisconsin, Michigan State, Ohio State, 
+Purdue, Indiana U, Ohio State, Illinois, 
+Penn State, Michigan State, Michigan, Northwestern, 
+Penn State, Northwestern</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Marquette</team>
+	<numWins>15</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>30.376</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/269.gif</iconURL>
+	<winCollection>Depaul, Providence, Providence, Syracuse, 
+Syracuse, Seton Hall, Notre Dame, Centenary, 
+Wisc Milwaukee, Connecticut, Rutgers, West Virginia, 
+South Florida, Xavier, Wisc Green Bay</winCollection>
+	<lossCollection>Duke, Gonzaga, Wisconsin, Vanderbilt, 
+Pittsburgh, Louisville, Notre Dame, Connecticut, 
+Villanova, Georgetown, St. Johns, Cincinnati, 
+Seton Hall, Louisville, North Carolina</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Penn State</team>
+	<numWins>16</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>30.267</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/213.gif</iconURL>
+	<winCollection>Minnesota U, Minnesota U, Wisconsin, Wisconsin, 
+Fairfield, Michigan State, Michigan State, Iowa, 
+Illinois, Furman, Duquesne, Indiana U, 
+Indiana U, Northwestern, Northwestern, St. Josephs
+</winCollection>
+	<lossCollection>Mississippi, Maryland, Virginia Tech, Michigan, 
+Purdue, Ohio State, Purdue, Illinois, 
+Michigan, Michigan State, Wisconsin, Ohio State, 
+Ohio State, Temple</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Loyola Marymount</team>
+	<numWins>8</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>30.239</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2351.gif</iconURL>
+	<winCollection>Dowling, Cal Poly SLO, Long Beach State, Cal Irvine, 
+Sacramento State, Portland U, San Diego, Pepperdine
+</winCollection>
+	<lossCollection>Bradley, Rider, Cal Poly SLO, Cal Santa Barb, 
+Florida State, Saint Marys CA, Portland U, Gonzaga, 
+Pepperdine, San Francisco, Santa Clara, San Diego, 
+Saint Marys CA, Gonzaga, Portland U, Portland State, 
+Santa Clara, San Francisco, Santa Clara</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Creighton</team>
+	<numWins>21</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>30.233</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/156.gif</iconURL>
+	<winCollection>Central Florida, Indiana State, Bradley, Samford, 
+Western Illinois, Davidson, Illinois State, Illinois State, 
+Evansville, Evansville, Northern Iowa, Northern Iowa, 
+UL Lafayette, Drake, San Jose State, So Illinois, 
+So Illinois, Oregon, St. Josephs, Northern Arizona, 
+Idaho State</winCollection>
+	<lossCollection>Iowa State, Northwestern, BYU, Nebraska, 
+Missouri St, Wichita State, Indiana State, Missouri St, 
+Northern Iowa, Bradley, Drake, Akron, 
+Wichita State, Missouri St, Oregon, Oregon
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Santa Clara</team>
+	<numWins>19</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>30.157</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2541.gif</iconURL>
+	<winCollection>Fordham, CS Northridge, No. Colorado, San Francisco, 
+Rice, San Jose State, Air Force, Gonzaga, 
+Northern Arizona, SMU, Portland U, San Diego, 
+San Diego, Iona, Loyola Marymount, Loyola Marymount, 
+Loyola Marymount, Pepperdine, Pepperdine</winCollection>
+	<lossCollection>USC, Arizona, Ohio, Cal Santa Barb, 
+Pacific, Washington State, Delaware, San Francisco, 
+Saint Marys CA, San Francisco, Saint Marys CA, Gonzaga, 
+Portland U, Saint Marys CA</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Rhode Island</team>
+	<numWins>18</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>30.133</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/227.gif</iconURL>
+	<winCollection>Fordham, Fordham, Coll Charleston, Davidson, 
+Charlotte U, Boston College, St. Bonaventure, Northeastern, 
+Duquesne, Dayton, St. Josephs, Drexel, 
+Saint Louis, Saint Louis, Miami Ohio, Toledo, 
+Brown, Richmond</winCollection>
+	<lossCollection>Pittsburgh, Illinois Chicago, Providence, Florida, 
+Xavier, LaSalle, Massachusetts, Temple, 
+Massachusetts, Geo Washington, St. Bonaventure, Richmond, 
+Central Florida</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Portland U</team>
+	<numWins>19</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>30.123</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2501.gif</iconURL>
+	<winCollection>Idaho U, Fla Atlantic, Portland State, Saint Marys CA, 
+Montana, Denver U, Boise State, Wisc Milwaukee, 
+UC Davis, Cal Santa Barb, Utah U, Saint Louis, 
+Nevada, San Diego, San Diego, Santa Clara, 
+Loyola Marymount, Loyola Marymount, Pepperdine</winCollection>
+	<lossCollection>Kentucky, Washington State, Washington U, Gonzaga, 
+San Francisco, Santa Clara, Gonzaga, Pepperdine, 
+San Francisco, Saint Marys CA, Loyola Marymount, Hawaii
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Missouri</team>
+	<numWins>18</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>30.120</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/142.gif</iconURL>
+	<winCollection>Texas Tech, Texas Tech, Old Dominion, LaSalle, 
+Kansas State, No Illinois, Western Illinois, Nebraska, 
+Baylor, Illinois, Iowa State, Iowa State, 
+Wyoming, Vanderbilt, Oral Roberts, Oregon, 
+Colorado, Oklahoma</winCollection>
+	<lossCollection>Georgetown, Colorado, Texas AM, Texas, 
+Oklahoma State, Kansas, Kansas State, Nebraska, 
+Kansas, Texas AM, Cincinnati</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Montana</team>
+	<numWins>19</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>30.115</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/149.gif</iconURL>
+	<winCollection>Idaho U, Idaho U, Portland State, Portland State, 
+E. Washington, Oregon State, Montana State, Montana State, 
+Weber State, Weber State, No. Colorado, CS Fullerton, 
+CS Fullerton, UCLA, Sacramento State, Sacramento State, 
+Northern Arizona, Idaho State, Idaho State</winCollection>
+	<lossCollection>Nevada, Utah U, Portland U, San Francisco, 
+No. Colorado, Weber State, Northern Arizona, Long Beach State, 
+E. Washington, No. Colorado, Duquesne</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Dayton</team>
+	<numWins>17</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>30.091</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2168.gif</iconURL>
+	<winCollection>Mississippi, Fordham, LaSalle, George Mason, 
+Western Carolina, Seton Hall, Charlotte U, St. Bonaventure, 
+Duquesne, Massachusetts, Akron, St. Josephs, 
+St. Josephs, Xavier, Saint Louis, Miami Ohio, 
+New Mexico</winCollection>
+	<lossCollection>Cincinnati, Old Dominion, Massachusetts, Xavier, 
+Richmond, Duquesne, Rhode Island, Temple, 
+Xavier, Saint Louis, Geo Washington, Richmond, 
+Coll Charleston</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Harvard</team>
+	<numWins>16</numWins>
+	<numLosses>7</numLosses>
+	<pageRank>30.057</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/108.gif</iconURL>
+	<winCollection>Fordham, Princeton, Boston College, Geo Washington, 
+Dartmouth, Dartmouth, Yale, Cornell, 
+Cornell, Pennsylvania, Pennsylvania, Colorado, 
+Columbia, Columbia, Brown, Brown
+</winCollection>
+	<lossCollection>George Mason, Michigan, Connecticut, Princeton, 
+Yale, Princeton, Oklahoma State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Long Beach State</team>
+	<numWins>20</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>30.054</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/299.gif</iconURL>
+	<winCollection>Cal Riverside, Cal Riverside, Cal Riverside, CS Northridge, 
+CS Northridge, Cal Poly SLO, Cal Poly SLO, Montana, 
+Iowa, CS Fullerton, Cal Irvine, Cal Irvine, 
+Boise State, St. Peters, UC Davis, UC Davis, 
+Cal Santa Barb, Cal Santa Barb, Pacific, Pacific
+</winCollection>
+	<lossCollection>San Diego State, Clemson, Loyola Marymount, Washington U, 
+Utah State, North Carolina, Saint Marys CA, Arizona State, 
+CS Fullerton, Cal Irvine, Cal Santa Barb, Washington State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>East Carolina</team>
+	<numWins>13</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>30.005</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/151.gif</iconURL>
+	<winCollection>Central Florida, Central Florida, Central Florida, NC Greensboro, 
+Marshall, UTEP, Charlotte U, USC-Upstate, 
+Houston U, Rice, Memphis U, Tulane, 
+UAB</winCollection>
+	<lossCollection>NC State, Charlotte U, Old Dominion, Geo Washington, 
+Clemson, Memphis U, UAB, So Mississippi, 
+SMU, Marshall, Tulsa, So Mississippi, 
+UAB, Memphis U, Jacksonville</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Tennessee Chat</team>
+	<numWins>14</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>29.986</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/236.gif</iconURL>
+	<winCollection>NC Greensboro, NC Greensboro, Marshall, Western Carolina, 
+Coll Charleston, Samford, Samford, The Citadel, 
+Montreat, Georgia Southern, Furman, Elon, 
+Elon, Appalachian St</winCollection>
+	<lossCollection>Tennessee, Austin Peay, Louisville, Florida Intl, 
+Murray State, Georgia State, Austin Peay, Wofford, 
+Furman, Davidson, Western Carolina, Appalachian St, 
+Georgia Tech, Wofford, Furman</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Oklahoma State</team>
+	<numWins>15</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>29.975</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/197.gif</iconURL>
+	<winCollection>Texas Tech, LaSalle, Murray State, Kansas State, 
+Depaul, Harvard, Nebraska, Baylor, 
+Alabama, Missouri St, Iowa State, Missouri, 
+Tulsa, Stanford, Oklahoma</winCollection>
+	<lossCollection>Virginia Tech, Gonzaga, Texas AM, Colorado, 
+Baylor, Texas, Texas Tech, Nebraska, 
+Texas, Texas AM, Kansas, Oklahoma, 
+Kansas, Washington State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Rider</team>
+	<numWins>19</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>29.961</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2520.gif</iconURL>
+	<winCollection>Niagara, Niagara, LaSalle, Fairfield, 
+Loyola Maryland, Loyola Maryland, Manhattan, Manhattan, 
+Siena, Marist, Marist, St. Peters, 
+TCU, Canisius, Canisius, USC, 
+Delaware, Iona, Loyola Marymount</winCollection>
+	<lossCollection>Massachusetts, Siena, Hofstra, Pittsburgh, 
+Drexel, Iona, Fairfield, St. Peters, 
+Canisius, Iona, Northern Iowa</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Indiana U</team>
+	<numWins>6</numWins>
+	<numLosses>20</numLosses>
+	<pageRank>29.925</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/84.gif</iconURL>
+	<winCollection>Minnesota U, Michigan, Savannah State, Evansville, 
+Illinois, Wright State</winCollection>
+	<lossCollection>Boston College, Kentucky, Northern Iowa, Colorado, 
+Penn State, Ohio State, Minnesota U, Northwestern, 
+Wisconsin, Iowa, Michigan State, Iowa, 
+Purdue, Michigan, Northwestern, Purdue, 
+Ohio State, Wisconsin, Illinois, Penn State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Michigan</team>
+	<numWins>16</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>29.925</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/130.gif</iconURL>
+	<winCollection>Minnesota U, Penn State, Penn State, Bowling Green, 
+Harvard, Michigan State, Michigan State, Tennessee, 
+Iowa, Iowa, Illinois, Clemson, 
+Oakland, Indiana U, Northwestern, Utah U
+</winCollection>
+	<lossCollection>Syracuse, UTEP, Purdue, Wisconsin, 
+Kansas, Ohio State, Indiana U, Northwestern, 
+Minnesota U, Ohio State, Illinois, Wisconsin, 
+Ohio State, Duke</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Murray State</team>
+	<numWins>18</numWins>
+	<numLosses>9</numLosses>
+	<pageRank>29.909</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/93.gif</iconURL>
+	<winCollection>Eastern Kentucky, Eastern Kentucky, Jacksonville St, Jacksonville St, 
+Austin Peay, Tenn Martin, Tenn Martin, Evansville, 
+Morehead State, SE Missouri St, Western Kentucky, Tennessee State, 
+Tennessee State, Stanford, Eastern Illinois, Tennessee Tech, 
+Tennessee Tech, Tennessee Chat</winCollection>
+	<lossCollection>Mississippi, UNLV, Oklahoma State, Morehead State, 
+Austin Peay, Eastern Illinois, SE Missouri St, Tennessee Tech, 
+Missouri St</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Georgia</team>
+	<numWins>17</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>29.873</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/61.gif</iconURL>
+	<winCollection>Mississippi, Eastern Kentucky, Arkansas, Manhattan, 
+Tennessee, Georgia Tech, Kentucky, Arkansas State, 
+Mississippi St, Colorado, Saint Louis, UAB, 
+Auburn, Auburn, South Carolina, South Carolina, 
+LSU</winCollection>
+	<lossCollection>Notre Dame, Temple, Vanderbilt, Tennessee, 
+Florida, Kentucky, Xavier, Vanderbilt, 
+Florida, Alabama, Alabama, Washington U
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Detroit U</team>
+	<numWins>16</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>29.865</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2174.gif</iconURL>
+	<winCollection>Niagara, Cleveland State, Bowling Green, Youngstown State, 
+Youngstown State, Loyola Chicago, Loyola Chicago, Loyola Chicago, 
+Central Michigan, Wright State, Wright State, Eastern Michigan, 
+Illinois Chicago, Illinois Chicago, Albany NY, Wisc Green Bay
+</winCollection>
+	<lossCollection>New Mexico, Syracuse, Mississippi St, Akron, 
+Western Michigan, Bradley, Wisc Milwaukee, Butler, 
+Valparaiso, Cleveland State, Wisc Milwaukee, Wisc Green Bay, 
+Valparaiso, Butler, Drake, Valparaiso
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Texas AM</team>
+	<numWins>16</numWins>
+	<numLosses>9</numLosses>
+	<pageRank>29.862</pageRank>
+	<bcsRank>24</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/245.gif</iconURL>
+	<winCollection>Texas Tech, Texas Tech, Kansas State, Arkansas, 
+Manhattan, Iowa State, Missouri, Missouri, 
+Oklahoma State, Oklahoma State, Colorado, Pacific, 
+Temple, Oklahoma, Oklahoma, Washington U
+</winCollection>
+	<lossCollection>Boston College, Texas, Nebraska, Texas, 
+Baylor, Baylor, Kansas, Texas, 
+Florida State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Fairfield</team>
+	<numWins>18</numWins>
+	<numLosses>8</numLosses>
+	<pageRank>29.844</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2217.gif</iconURL>
+	<winCollection>Niagara, Niagara, Austin Peay, Colorado State, 
+Loyola Maryland, Rider, Manhattan, Manhattan, 
+Siena, Siena, Marist, Marist, 
+Marist, St. Peters, St. Peters, Canisius, 
+Canisius, Iona</winCollection>
+	<lossCollection>Rutgers, Penn State, St. Josephs, Loyola Maryland, 
+Rider, Iona, St. Peters, Kent State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>California</team>
+	<numWins>17</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>29.828</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/25.gif</iconURL>
+	<winCollection>Arizona State, Arizona State, Mississippi, CS Northridge, 
+Washington State, Cal Poly SLO, Oregon State, Oregon State, 
+Iowa State, UCLA, UC Davis, Oregon, 
+Oregon, USC, Stanford, Temple, 
+New Mexico</winCollection>
+	<lossCollection>Notre Dame, Boston College, San Diego State, So Mississippi, 
+Kansas, Stanford, Arizona, Washington U, 
+UCLA, Arizona, Washington U, Washington State, 
+USC, USC, Colorado</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Boise State</team>
+	<numWins>19</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>29.793</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/68.gif</iconURL>
+	<winCollection>Idaho U, Idaho U, Austin Peay, No Illinois, 
+E. Washington, Hawaii, Evansville, Denver U, 
+UC Davis, San Jose State, San Jose State, Cal Santa Barb, 
+Fresno State, Fresno State, Nevada, New Mexico State, 
+New Mexico State, Louisiana Tech, San Diego</winCollection>
+	<lossCollection>Long Beach State, UNLV, Drake, Utah U, 
+Portland U, Utah State, Nevada, New Mexico State, 
+Louisiana Tech, Hawaii, Utah State, Utah State, 
+Oregon</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Miami Florida</team>
+	<numWins>16</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>29.781</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2390.gif</iconURL>
+	<winCollection>Mississippi, NC Greensboro, Fla Atlantic, Virginia, 
+Virginia, Boston College, Boston College, Missouri St, 
+Georgia Tech, Wake Forest, Rice, Oral Roberts, 
+West Virginia, Maryland, Akron, Pepperdine
+</winCollection>
+	<lossCollection>Memphis U, Rutgers, Central Florida, Duke, 
+Clemson, Florida State, NC State, North Carolina, 
+Virginia Tech, Duke, Clemson, Florida State, 
+Georgia Tech, North Carolina, Alabama</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Tennessee Tech</team>
+	<numWins>15</numWins>
+	<numLosses>10</numLosses>
+	<pageRank>29.775</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2635.gif</iconURL>
+	<winCollection>Eastern Kentucky, Eastern Kentucky, Jacksonville St, Jacksonville St, 
+Austin Peay, Austin Peay, Murray State, Gardner Webb, 
+Tenn Martin, Tenn Martin, Tenn Martin, SE Missouri St, 
+Tennessee State, Eastern Illinois, Eastern Illinois</winCollection>
+	<lossCollection>NC State, Michigan State, SE Missouri St, Morehead State, 
+Murray State, Tennessee State, Morehead State, Murray State, 
+Morehead State, Western Michigan</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>So Mississippi</team>
+	<numWins>15</numWins>
+	<numLosses>10</numLosses>
+	<pageRank>29.751</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2572.gif</iconURL>
+	<winCollection>Central Florida, Marshall, UTEP, East Carolina, 
+East Carolina, South Alabama, E Tennessee St, Houston U, 
+California, Rice, South Florida, Tulane, 
+Tulane, Saint Louis, UAB</winCollection>
+	<lossCollection>Mississippi, Colorado State, Marshall, Memphis U, 
+SMU, Memphis U, Central Florida, UAB, 
+Tulsa, Memphis U</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Loyola Chicago</team>
+	<numWins>13</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>29.746</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2350.gif</iconURL>
+	<winCollection>Eastern Kentucky, Indiana State, Valparaiso, Youngstown State, 
+Youngstown State, San Francisco, Wisc Milwaukee, Texas-Pan American, 
+Eastern Illinois, Illinois Chicago, Illinois Chicago, Wisc Green Bay, 
+Western Michigan</winCollection>
+	<lossCollection>Butler, Valparaiso, Kansas State, Depaul, 
+Cleveland State, Detroit U, Wright State, Wisc Green Bay, 
+Cleveland State, Wright State, Detroit U, Wisc Milwaukee, 
+St. Peters, Butler, Detroit U</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Fla Atlantic</team>
+	<numWins>19</numWins>
+	<numLosses>10</numLosses>
+	<pageRank>29.681</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2226.gif</iconURL>
+	<winCollection>North Texas, Troy, Troy, Middle Tenn St, 
+Middle Tenn St, South Alabama, South Alabama, UL Monroe, 
+Manhattan, Wisc Milwaukee, Arkansas LR, UC Davis, 
+Arkansas State, Mississippi St, Western Kentucky, South Florida, 
+Florida Intl, Florida Intl, Hofstra</winCollection>
+	<lossCollection>Portland U, Florida, George Mason, Siena, 
+Depaul, Western Kentucky, Denver U, UL Lafayette, 
+North Texas, Miami Florida</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Appalachian St</team>
+	<numWins>13</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>29.672</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2026.gif</iconURL>
+	<winCollection>NC Greensboro, Coll Charleston, Samford, Samford, 
+Davidson, The Citadel, Georgia Southern, Georgia Southern, 
+High Point, Elon, Elon, Tulsa, 
+Tennessee Chat</winCollection>
+	<lossCollection>Mississippi St, Vanderbilt, Tennessee Chat, Georgetown, 
+Colorado State, Texas State, E Tennessee St, NC Greensboro, 
+Western Carolina, The Citadel, Coll Charleston, Wofford, 
+Furman, Western Carolina, Wofford</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Ohio</team>
+	<numWins>16</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>29.655</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/195.gif</iconURL>
+	<winCollection>Buffalo, Marshall, Kent State, No Illinois, 
+Valparaiso, Bowling Green, Illinois State, Ball State, 
+Eastern Michigan, Akron, Akron, Winthrop, 
+Delaware, Toledo, Toledo, Santa Clara
+</winCollection>
+	<lossCollection>Oakland, Kansas, Marshall, IUPUI, 
+St. Bonaventure, Temple, Miami Ohio, Kent State, 
+Bowling Green, Buffalo, Central Michigan, Western Michigan, 
+Miami Ohio, Ball State, E Tennessee St</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Arkansas LR</team>
+	<numWins>17</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>29.608</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2031.gif</iconURL>
+	<winCollection>North Texas, Troy, Middle Tenn St, Middle Tenn St, 
+Illinois State, South Alabama, UL Monroe, UL Monroe, 
+Denver U, UL Lafayette, Stetson, Oral Roberts, 
+Arkansas State, Tulsa, Florida Intl, Louisiana Tech, 
+SMU</winCollection>
+	<lossCollection>St. Bonaventure, Oral Roberts, Missouri St, Mississippi, 
+Rice, Akron, North Texas, Denver U, 
+St. Bonaventure, Fla Atlantic, Arkansas State, UL Lafayette, 
+Western Kentucky, South Alabama, Arkansas State, North Texas, 
+NC Asheville</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Oral Roberts</team>
+	<numWins>19</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>29.604</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/198.gif</iconURL>
+	<winCollection>South Dakota St, South Dakota St, Southern Utah, Southern Utah, 
+Western Illinois, Western Illinois, Centenary, Centenary, 
+Arkansas LR, UMKC, UMKC, Rice, 
+IUPUI, IUPUI, IUPUI, Utah U, 
+N Dakota St, N Dakota St, Pacific</winCollection>
+	<lossCollection>Missouri St, Tulsa, Indiana State, Texas Tech, 
+Oklahoma, Missouri, Miami Florida, Arkansas LR, 
+IPFW, Oakland, Akron, N Dakota St, 
+Oakland, IPFW, Oakland, SMU
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Western Michigan</team>
+	<numWins>20</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>29.593</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2711.gif</iconURL>
+	<winCollection>South Dakota St, No Illinois, No Illinois, Bowling Green, 
+Bowling Green, Georgia State, Illinois State, Ball State, 
+Central Michigan, Central Michigan, Wisc Milwaukee, Eastern Michigan, 
+Eastern Michigan, Eastern Illinois, Ohio, Detroit U, 
+Idaho State, Miami Ohio, Toledo, Tennessee Tech
+</winCollection>
+	<lossCollection>Xavier, Loyola Chicago, Illinois, Towson, 
+Troy, Utah State, Ball State, Toledo, 
+Buffalo, Akron, Kent State, Akron, 
+Buffalo</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Marshall</team>
+	<numWins>15</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>29.593</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/276.gif</iconURL>
+	<winCollection>Central Florida, East Carolina, James Madison, So Mississippi, 
+St. Bonaventure, Houston U, Houston U, Rice, 
+West Virginia, Tulsa, Memphis U, Tulane, 
+Ohio, Florida Intl, SMU</winCollection>
+	<lossCollection>Tennessee Chat, Louisville, James Madison, Central Florida, 
+Memphis U, East Carolina, UAB, So Mississippi, 
+UAB, UTEP, UTEP, Ohio
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Northern Iowa</team>
+	<numWins>16</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>29.589</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2460.gif</iconURL>
+	<winCollection>Bradley, Bradley, Creighton, Wichita State, 
+Illinois State, Illinois State, Rider, Evansville, 
+Missouri St, Morehead State, Iowa State, Drake, 
+TCU, So Illinois, Indiana U, New Mexico
+</winCollection>
+	<lossCollection>Syracuse, Wisc Milwaukee, Iowa, Missouri St, 
+So Illinois, Indiana State, Drake, Evansville, 
+Wichita State, George Mason, Indiana State, Creighton, 
+Creighton, SMU</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Hofstra</team>
+	<numWins>17</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>29.588</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2275.gif</iconURL>
+	<winCollection>George Mason, NC Wilmington, NC Wilmington, Georgia State, 
+James Madison, Rider, Manhattan, Towson, 
+Towson, Northeastern, Northeastern, William  Mary, 
+William  Mary, William  Mary, Drexel, Delaware, 
+Delaware</winCollection>
+	<lossCollection>North Carolina, Western Kentucky, Nebraska, Fla Atlantic, 
+Iona, Old Dominion, Va Commonwealth, Drexel, 
+George Mason, Wright State, Old Dominion, Evansville
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Tennessee State</team>
+	<numWins>11</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>29.560</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2193.gif</iconURL>
+	<winCollection>Eastern Kentucky, Jacksonville St, Austin Peay, Delaware State, 
+Tenn Martin, Tenn Martin, Morehead State, SE Missouri St, 
+SE Missouri St, Eastern Illinois, Tennessee Tech</winCollection>
+	<lossCollection>Mississippi St, Illinois State, Air Force, Saint Louis, 
+Eastern Illinois, Middle Tenn St, Memphis U, Murray State, 
+Morehead State, Eastern Kentucky, Murray State, Jacksonville St, 
+Austin Peay, Tennessee Tech, Tenn Martin</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Northwestern</team>
+	<numWins>14</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>29.478</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/77.gif</iconURL>
+	<winCollection>Creighton, Minnesota U, Minnesota U, Michigan, 
+No Illinois, St. Francis NY, Boston College, Iowa, 
+Iowa, Georgia Tech, Illinois, Wisc Milwaukee, 
+Indiana U, Indiana U</winCollection>
+	<lossCollection>St. Johns, Purdue, Michigan State, Illinois, 
+Michigan State, Wisconsin, Minnesota U, Ohio State, 
+Michigan, Penn State, Penn State, Wisconsin, 
+Ohio State, Washington State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>St. Peters</team>
+	<numWins>16</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>29.438</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2612.gif</iconURL>
+	<winCollection>Niagara, Niagara, Fairfield, Loyola Maryland, 
+Loyola Maryland, Alabama, Rider, Loyola Chicago, 
+Manhattan, Manhattan, Siena, Siena, 
+Marist, Marist, Canisius, Iona
+</winCollection>
+	<lossCollection>Old Dominion, Long Beach State, Seton Hall, Rutgers, 
+Iona, Fairfield, Loyola Maryland, Canisius, 
+Fairfield, Iona, Rider, Purdue
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Maryland</team>
+	<numWins>13</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>29.375</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/120.gif</iconURL>
+	<winCollection>NC Greensboro, Seattle U, Penn State, Coll Charleston, 
+Virginia, Florida State, Georgia Tech, Clemson, 
+Elon, Wake Forest, Wake Forest, NC State, 
+NC State</winCollection>
+	<lossCollection>Pittsburgh, Illinois, Temple, Boston College, 
+Duke, Villanova, Virginia Tech, Duke, 
+Boston College, Virginia Tech, North Carolina, Miami Florida, 
+Virginia, Duke</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Arizona State</team>
+	<numWins>11</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>29.208</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/9.gif</iconURL>
+	<winCollection>Houston Baptist, St. Johns, Washington State, Oregon State, 
+Weber State, Long Beach State, Oregon, Oregon, 
+Tulsa, Nevada, UAB</winCollection>
+	<lossCollection>New Mexico, Baylor, Richmond, Oregon State, 
+Stanford, California, Arizona, Washington State, 
+Washington U, USC, UCLA, California, 
+Stanford, Arizona, Washington U, UCLA, 
+USC, Oregon</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Mercer</team>
+	<numWins>4</numWins>
+	<numLosses>5</numLosses>
+	<pageRank>29.191</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2382.gif</iconURL>
+	<winCollection>Western Carolina, Fla Gulf Coast, North Florida, Lipscomb
+</winCollection>
+	<lossCollection>William  Mary, Gardner Webb, Stetson, Jacksonville, 
+Belmont</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Georgia State</team>
+	<numWins>10</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>29.182</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2247.gif</iconURL>
+	<winCollection>Troy, NC Wilmington, NC Wilmington, Va Commonwealth, 
+James Madison, Towson, Towson, Northeastern, 
+Texas AM Corpus, Tennessee Chat</winCollection>
+	<lossCollection>Samford, Western Michigan, Georgia Southern, NC Wilmington, 
+James Madison, George Mason, Va Commonwealth, Delaware, 
+Drexel, Old Dominion, Northeastern, Hofstra, 
+Old Dominion, Louisiana Tech, William  Mary, George Mason, 
+George Mason</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Wright State</team>
+	<numWins>16</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>29.174</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2750.gif</iconURL>
+	<winCollection>Butler, Youngstown State, Youngstown State, Loyola Chicago, 
+Loyola Chicago, Central Michigan, Oakland, Wisc Milwaukee, 
+Air Force, Illinois Chicago, Illinois Chicago, Miami Ohio, 
+Wisc Green Bay, Wisc Green Bay, Wisc Green Bay, Hofstra
+</winCollection>
+	<lossCollection>Indiana U, Richmond, So Illinois, Cincinnati, 
+Detroit U, Charlotte U, Valparaiso, Cleveland State, 
+Wisc Milwaukee, Butler, Valparaiso, Cleveland State, 
+Detroit U, Cleveland State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>IUPUI</team>
+	<numWins>16</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>29.167</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/85.gif</iconURL>
+	<winCollection>South Dakota St, Southern Utah, Western Illinois, Western Illinois, 
+IPFW, IPFW, San Francisco, Oakland, 
+Centenary, Centenary, UMKC, UMKC, 
+N Dakota St, N Dakota St, Ohio, Wisc Green Bay
+</winCollection>
+	<lossCollection>Gonzaga, Miami Ohio, San Diego State, Saint Louis, 
+Oral Roberts, Ohio State, Duquesne, San Diego State, 
+Oakland, UMKC, South Dakota St, Southern Utah, 
+Oral Roberts, Oral Roberts</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Cal Santa Barb</team>
+	<numWins>16</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>29.044</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2540.gif</iconURL>
+	<winCollection>Cal Riverside, Cal Riverside, CS Northridge, Cal Poly SLO, 
+Cal Poly SLO, UNLV, Long Beach State, Denver U, 
+CS Fullerton, Cal Irvine, UC Davis, UC Davis, 
+Fresno State, Pacific, Santa Clara, Loyola Marymount
+</winCollection>
+	<lossCollection>N Dakota St, Oregon, Portland U, San Diego State, 
+Long Beach State, Pacific, CS Fullerton, CS Northridge, 
+Pacific, Cal Irvine, Boise State, CS Northridge, 
+Long Beach State, Florida</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Mississippi St</team>
+	<numWins>14</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>29.015</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/344.gif</iconURL>
+	<winCollection>Mississippi, Mississippi, Troy, Arkansas, 
+Arkansas, Florida, Tennessee, Tennessee State, 
+Appalachian St, Detroit U, Auburn, South Carolina, 
+LSU, San Diego</winCollection>
+	<lossCollection>Fla Atlantic, Virginia Tech, Washington State, Hawaii, 
+Saint Marys CA, Alabama, Georgia, Vanderbilt, 
+Alabama, Auburn, Kentucky, LSU, 
+Vanderbilt</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Siena</team>
+	<numWins>13</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>28.986</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2561.gif</iconURL>
+	<winCollection>Niagara, Fla Atlantic, Maine, Loyola Maryland, 
+Rider, Manhattan, Manhattan, Georgia Tech, 
+Marist, Marist, Northeastern, Canisius, 
+Iona</winCollection>
+	<lossCollection>Minnesota U, Butler, Princeton, Fairfield, 
+St. Bonaventure, St. Josephs, Canisius, Niagara, 
+St. Peters, Rider, Loyola Maryland, Iona, 
+Manhattan, St. Peters, Fairfield, Iona
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Western Carolina</team>
+	<numWins>17</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>28.941</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2717.gif</iconURL>
+	<winCollection>NC Greensboro, NC Greensboro, NC Greensboro, Eastern Kentucky, 
+Bradley, Depaul, Coll Charleston, Samford, 
+Davidson, Georgia Southern, Furman, Elon, 
+Elon, William  Mary, Appalachian St, Appalachian St, 
+Tennessee Chat</winCollection>
+	<lossCollection>Clemson, UTEP, Mercer, Gardner Webb, 
+Samford, Tennessee Chat, Ohio State, Dayton, 
+Coll Charleston, The Citadel, Wofford, The Citadel, 
+Wofford</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Miami Ohio</team>
+	<numWins>15</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>28.912</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/193.gif</iconURL>
+	<winCollection>Buffalo, Troy, Kent State, No Illinois, 
+Bowling Green, Ball State, Central Michigan, Towson, 
+Eastern Michigan, Akron, IUPUI, Xavier, 
+Ohio, Ohio, Toledo</winCollection>
+	<lossCollection>Duke, Wisc Green Bay, San Diego State, Ohio State, 
+Dayton, Wright State, Cincinnati, Kansas, 
+Bowling Green, Kent State, Western Michigan, James Madison, 
+Akron, Buffalo, Akron, Rhode Island
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Cal Irvine</team>
+	<numWins>11</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>28.895</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/300.gif</iconURL>
+	<winCollection>Seattle U, Cal Poly SLO, Navy, Long Beach State, 
+CS Fullerton, Wyoming, Marist, UC Davis, 
+Cal Santa Barb, Pacific, San Diego</winCollection>
+	<lossCollection>Illinois, USC, Louisiana Tech, San Jose State, 
+Pepperdine, UCLA, Cal Riverside, Loyola Marymount, 
+Long Beach State, Cal Santa Barb, CS Northridge, UC Davis, 
+CS Fullerton, CS Northridge, Cal Poly SLO, Pacific, 
+Nevada, Cal Riverside, Long Beach State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Furman</team>
+	<numWins>17</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>28.883</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/231.gif</iconURL>
+	<winCollection>NC Greensboro, Middle Tenn St, Samford, Samford, 
+Samford, Davidson, The Citadel, The Citadel, 
+Georgia Southern, Georgia Southern, Elon, Northeastern, 
+Appalachian St, South Carolina, Wofford, Tennessee Chat, 
+Tennessee Chat</winCollection>
+	<lossCollection>Kent State, Penn State, Central Florida, Coll Charleston, 
+Davidson, Western Carolina, Coll Charleston, Tennessee Chat, 
+Wofford, Coll Charleston, E Tennessee St</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>St. Bonaventure</team>
+	<numWins>15</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>28.860</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/179.gif</iconURL>
+	<winCollection>Fordham, Fordham, Buffalo, LaSalle, 
+St. Johns, Charlotte U, Geo Washington, Siena, 
+Arkansas LR, Arkansas LR, Duquesne, Cornell, 
+Saint Louis, Ohio, Rhode Island</winCollection>
+	<lossCollection>Canisius, Cleveland State, Niagara, Virginia Tech, 
+Marshall, Temple, Rhode Island, Xavier, 
+Massachusetts, Dayton, Richmond, St. Josephs, 
+Duquesne, LaSalle, Central Florida</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>San Jose State</team>
+	<numWins>15</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>28.813</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/23.gif</iconURL>
+	<winCollection>Idaho U, Idaho U, Cal Riverside, E. Washington, 
+E. Washington, Montana State, Weber State, Hawaii, 
+San Francisco, Cal Irvine, Oregon, Fresno State, 
+New Mexico State, Louisiana Tech, Louisiana Tech</winCollection>
+	<lossCollection>Santa Clara, Fresno State, Utah State, Boise State, 
+Idaho U, New Mexico State, Hawaii, Utah State, 
+Nevada, Nevada, Hawaii, Boise State, 
+Utah State, Creighton</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Duquesne</team>
+	<numWins>14</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>28.793</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2184.gif</iconURL>
+	<winCollection>Fordham, LaSalle, Bowling Green, Charlotte U, 
+Montana, St. Bonaventure, Geo Washington, Massachusetts, 
+IUPUI, Dayton, St. Josephs, Saint Louis, 
+Temple, Wisc Green Bay</winCollection>
+	<lossCollection>Pittsburgh, Penn State, West Virginia, George Mason, 
+St. Bonaventure, Xavier, Dayton, Rhode Island, 
+Saint Louis, Richmond, St. Josephs, Oregon
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Nebraska</team>
+	<numWins>12</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>28.731</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/158.gif</iconURL>
+	<winCollection>Creighton, Texas, E. Washington, Iowa State, 
+Texas AM, Missouri, TCU, Oklahoma State, 
+USC, Colorado, Oklahoma, Hofstra
+</winCollection>
+	<lossCollection>Vanderbilt, Davidson, Missouri, Kansas, 
+Texas Tech, Kansas State, Kansas, Baylor, 
+Kansas State, Iowa State, Colorado, Oklahoma State, 
+Wichita State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Illinois State</team>
+	<numWins>11</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>28.709</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2287.gif</iconURL>
+	<winCollection>Bradley, Bradley, Jacksonville St, South Dakota, 
+NC Wilmington, Montana State, UL Monroe, Drake, 
+So Illinois, Tennessee State, Illinois Chicago</winCollection>
+	<lossCollection>Arkansas LR, UNLV, Ohio, Creighton, 
+Missouri St, Indiana State, Wichita State, So Illinois, 
+Northern Iowa, Evansville, Drake, Northern Iowa, 
+Wichita State, Indiana State, Missouri St, Creighton, 
+Western Michigan, Evansville, So Illinois</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Portland State</team>
+	<numWins>10</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>28.675</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2502.gif</iconURL>
+	<winCollection>Cal Riverside, Lamar, E. Washington, Montana State, 
+Weber State, CS Fullerton, Sacramento State, Idaho State, 
+Loyola Marymount, Pepperdine</winCollection>
+	<lossCollection>SMU, Oregon, Portland U, Nevada, 
+No. Colorado, Montana State, Montana, Northern Arizona, 
+E. Washington, Sacramento State, No. Colorado, Idaho State, 
+Weber State, Montana, Northern Arizona</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Louisiana Tech</team>
+	<numWins>9</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>28.620</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2348.gif</iconURL>
+	<winCollection>Idaho U, Seattle U, Georgia State, Navy, 
+UL Monroe, Cal Irvine, Boise State, Houston U, 
+SMU</winCollection>
+	<lossCollection>Texas, Arkansas LR, Iowa, Boise State, 
+Idaho U, Fresno State, San Jose State, Hawaii, 
+Utah State, Nevada, Fresno State, New Mexico State, 
+New Mexico State, Hawaii, San Jose State, Nevada, 
+Utah State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>New Mexico State</team>
+	<numWins>13</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>28.519</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/166.gif</iconURL>
+	<winCollection>Idaho U, Idaho U, Hawaii, UL Lafayette, 
+UL Lafayette, Boise State, San Jose State, Fresno State, 
+Pacific, Nevada, Nevada, Louisiana Tech, 
+Louisiana Tech</winCollection>
+	<lossCollection>Arizona, Massachusetts, USC, UTEP, 
+UTEP, New Mexico, New Mexico, Saint Marys CA, 
+Boise State, Nevada, Utah State, Fresno State, 
+No. Colorado, San Jose State, Hawaii, Utah State, 
+Boise State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Evansville</team>
+	<numWins>12</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>28.495</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/339.gif</iconURL>
+	<winCollection>Indiana State, Indiana State, Bradley, Butler, 
+Middle Tenn St, Illinois State, Illinois State, Missouri St, 
+Northern Iowa, Drake, So Illinois, Hofstra
+</winCollection>
+	<lossCollection>Indiana U, Middle Tenn St, Air Force, North Carolina, 
+Wichita State, Northern Iowa, Missouri St, Creighton, 
+So Illinois, Creighton, Bradley, Wichita State, 
+Murray State, Drake, Indiana State, Boise State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Western Kentucky</team>
+	<numWins>14</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>28.436</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/98.gif</iconURL>
+	<winCollection>North Texas, Fla Atlantic, Troy, Bowling Green, 
+South Alabama, UL Monroe, UL Monroe, UL Lafayette, 
+Arkansas LR, So Illinois, St. Josephs, Florida Intl, 
+Florida Intl, Hofstra</winCollection>
+	<lossCollection>Minnesota U, Davidson, South Carolina, Vanderbilt, 
+Memphis U, Murray State, Louisville, Arkansas State, 
+Denver U, Troy, Fla Atlantic, South Alabama, 
+Middle Tenn St, UL Lafayette, Middle Tenn St, North Texas
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Hawaii</team>
+	<numWins>14</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>28.400</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/62.gif</iconURL>
+	<winCollection>Montana State, Central Michigan, CS Fullerton, Boise State, 
+UC Davis, San Jose State, San Jose State, Mississippi St, 
+Utah U, Fresno State, New Mexico State, Louisiana Tech, 
+Louisiana Tech, Portland U</winCollection>
+	<lossCollection>Cal Poly SLO, BYU, Florida State, Utah State, 
+Nevada, Idaho U, Boise State, New Mexico State, 
+Utah State, Idaho U, Fresno State, San Jose State, 
+San Francisco</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Middle Tenn St</team>
+	<numWins>14</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>28.361</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2393.gif</iconURL>
+	<winCollection>North Texas, Troy, Samford, South Alabama, 
+UL Monroe, Evansville, Denver U, UL Lafayette, 
+Western Kentucky, Western Kentucky, Tennessee State, Florida Intl, 
+Florida Intl, Florida Intl</winCollection>
+	<lossCollection>UAB, Campbell, Auburn, Tennessee, 
+Furman, Evansville, Vanderbilt, South Alabama, 
+Fla Atlantic, Arkansas State, Fla Atlantic, Troy, 
+Arkansas LR, Arkansas LR</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Geo Washington</team>
+	<numWins>15</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>28.303</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/45.gif</iconURL>
+	<winCollection>Fordham, LaSalle, LaSalle, East Carolina, 
+Charlotte U, Charlotte U, Oregon State, Marist, 
+Towson, Massachusetts, Dayton, St. Josephs, 
+Saint Louis, Nevada, Rhode Island</winCollection>
+	<lossCollection>Boston U, Hampton, NC Wilmington, George Mason, 
+UAB, Harvard, Richmond, St. Bonaventure, 
+Xavier, Duquesne, Richmond, Temple, 
+St. Josephs</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>North Texas</team>
+	<numWins>14</numWins>
+	<numLosses>10</numLosses>
+	<pageRank>28.296</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/249.gif</iconURL>
+	<winCollection>Texas Tech, Fla Atlantic, Troy, South Alabama, 
+UL Monroe, Denver U, UL Lafayette, Arkansas LR, 
+Arkansas LR, Rice, Arkansas State, Western Kentucky, 
+Florida Intl, LSU</winCollection>
+	<lossCollection>Kansas, Middle Tenn St, Troy, UL Lafayette, 
+Denver U, Fla Atlantic, Western Kentucky, UL Monroe, 
+Arkansas State, Arkansas LR</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Northern Arizona</team>
+	<numWins>13</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>28.262</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2468.gif</iconURL>
+	<winCollection>Portland State, Portland State, Cal Poly SLO, E. Washington, 
+Montana State, Montana State, No. Colorado, Montana, 
+Air Force, Sacramento State, Sacramento State, Idaho State, 
+Pepperdine</winCollection>
+	<lossCollection>Iowa State, Creighton, USC, Arizona, 
+Montana, Montana State, Weber State, E. Washington, 
+Weber State, Idaho State, No. Colorado, No. Colorado, 
+Santa Clara</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Ball State</team>
+	<numWins>16</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>28.205</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2050.gif</iconURL>
+	<winCollection>Buffalo, Indiana State, Depaul, Southern Utah, 
+No Illinois, No Illinois, Central Michigan, Central Michigan, 
+Eastern Michigan, Eastern Michigan, Eastern Illinois, Eastern Illinois, 
+Ohio, Western Michigan, Toledo, Toledo
+</winCollection>
+	<lossCollection>Butler, St. Johns, Alaska Anchorage, Valparaiso, 
+Morehead State, Kent State, Ohio, Miami Ohio, 
+Bowling Green, Akron, Wofford, Western Michigan, 
+Kent State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Pacific</team>
+	<numWins>13</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>28.205</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/279.gif</iconURL>
+	<winCollection>UTEP, Cal Riverside, Cal Riverside, CS Northridge, 
+Cal Irvine, UC Davis, UC Davis, Arkansas State, 
+Cal Santa Barb, Cal Santa Barb, Fresno State, Nevada, 
+Santa Clara</winCollection>
+	<lossCollection>UCLA, Missouri St, Pepperdine, Texas AM, 
+New Mexico State, CS Fullerton, Cal Poly SLO, Long Beach State, 
+Long Beach State, Cal Poly SLO, Oral Roberts, Cal Irvine, 
+CS Fullerton, CS Northridge, Cal Santa Barb</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Samford</team>
+	<numWins>8</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>28.196</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2535.gif</iconURL>
+	<winCollection>NC Greensboro, Western Carolina, Georgia State, Georgia Southern, 
+Elon, Eastern Michigan, Auburn, Campbell
+</winCollection>
+	<lossCollection>Youngstown State, Middle Tenn St, Appalachian St, Creighton, 
+Elon, Tennessee Chat, The Citadel, Furman, 
+Wofford, NC Greensboro, Davidson, Appalachian St, 
+Western Carolina, Wofford, Furman, Coll Charleston, 
+Tennessee Chat, Furman</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Providence</team>
+	<numWins>11</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>28.196</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2507.gif</iconURL>
+	<winCollection>Villanova, Alabama, Louisville, Wyoming, 
+Dartmouth, Northeastern, Yale, Rutgers, 
+South Florida, Rhode Island, Brown</winCollection>
+	<lossCollection>LaSalle, Boston College, Syracuse, St. Johns, 
+Pittsburgh, Rutgers, West Virginia, South Florida, 
+Seton Hall, Georgetown, Connecticut, Depaul, 
+Cincinnati, Notre Dame, Marquette, Louisville, 
+Marquette</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Seton Hall</team>
+	<numWins>11</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>28.179</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2550.gif</iconURL>
+	<winCollection>Marquette, Depaul, Providence, St. Johns, 
+Syracuse, Alabama, St. Peters, Rutgers, 
+Cornell, Massachusetts, South Florida</winCollection>
+	<lossCollection>Temple, Xavier, Clemson, Arkansas, 
+Dayton, Richmond, Cincinnati, Louisville, 
+Syracuse, Pittsburgh, Georgetown, Rutgers, 
+West Virginia, Connecticut, Villanova, Marquette, 
+Notre Dame, Rutgers</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Virginia</team>
+	<numWins>12</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>28.159</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/258.gif</iconURL>
+	<winCollection>Minnesota U, Georgia Tech, Georgia Tech, Clemson, 
+NC State, Virginia Tech, Virginia Tech, Oregon, 
+Maryland, William  Mary, Oklahoma, LSU
+</winCollection>
+	<lossCollection>Stanford, Wichita State, Iowa State, North Carolina, 
+Duke, Boston College, Maryland, Wake Forest, 
+Miami Florida, Florida State, Duke, Boston College, 
+Miami Florida</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>South Carolina</team>
+	<numWins>10</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>28.155</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2579.gif</iconURL>
+	<winCollection>Mississippi, Jacksonville St, Arkansas, Florida, 
+Clemson, Elon, Vanderbilt, Western Kentucky, 
+Wofford, LSU</winCollection>
+	<lossCollection>Michigan State, Ohio State, Furman, Boston College, 
+Alabama, Kentucky, Auburn, Vanderbilt, 
+Florida, Georgia, Tennessee, Kentucky, 
+Georgia, Tennessee, Mississippi St, Mississippi
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Georgia Tech</team>
+	<numWins>9</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>28.149</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/59.gif</iconURL>
+	<winCollection>Niagara, UTEP, North Carolina, Miami Florida, 
+Wake Forest, Wake Forest, Virginia Tech, Richmond, 
+Tennessee Chat</winCollection>
+	<lossCollection>Syracuse, Northwestern, Georgia, Siena, 
+Charlotte U, Boston College, Clemson, Virginia, 
+Maryland, Miami Florida, Clemson, Florida State, 
+Virginia Tech, Duke, Virginia, NC State, 
+Virginia Tech</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Nevada</team>
+	<numWins>12</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>28.110</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2440.gif</iconURL>
+	<winCollection>Portland State, Hawaii, Montana, Cal Irvine, 
+Boise State, San Jose State, San Jose State, Fresno State, 
+Fresno State, New Mexico State, Louisiana Tech, Louisiana Tech
+</winCollection>
+	<lossCollection>Pacific, Pepperdine, Geo Washington, Boston U, 
+South Dakota St, UNLV, Houston U, Arizona State, 
+Washington U, Portland U, Fresno State, Utah State, 
+Idaho U, Utah State, Idaho U, Boise State, 
+New Mexico State, New Mexico State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Stanford</team>
+	<numWins>12</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>28.066</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/24.gif</iconURL>
+	<winCollection>Arizona State, Arizona State, Cal Riverside, Depaul, 
+Virginia, Washington State, Oregon State, California, 
+Yale, Oregon, Washington U, San Diego
+</winCollection>
+	<lossCollection>Murray State, Tulsa, Butler, Oklahoma State, 
+Arizona, Washington State, USC, UCLA, 
+Oregon, Arizona, Washington U, UCLA, 
+USC, Oregon State, California, Oregon State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>NC State</team>
+	<numWins>11</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>28.009</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/152.gif</iconURL>
+	<winCollection>George Mason, East Carolina, Youngstown State, Miami Florida, 
+Georgia Tech, Clemson, Elon, Wake Forest, 
+Wake Forest, Tennessee Tech, San Diego</winCollection>
+	<lossCollection>Georgetown, Wisconsin, Syracuse, Arizona, 
+Boston College, Florida State, Duke, Clemson, 
+North Carolina, Virginia Tech, Duke, Maryland, 
+North Carolina, Virginia, Florida State, Maryland
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Arkansas</team>
+	<numWins>11</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>27.993</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/8.gif</iconURL>
+	<winCollection>Troy, Seton Hall, Alabama, Tennessee, 
+Kentucky, Vanderbilt, SE Missouri St, Oklahoma, 
+Auburn, Auburn, LSU</winCollection>
+	<lossCollection>UAB, Texas AM, Texas, LSU, 
+South Carolina, Florida, Georgia, Mississippi, 
+Mississippi St, Alabama, Mississippi St, Mississippi, 
+Tennessee</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>LaSalle</team>
+	<numWins>11</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>27.969</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2325.gif</iconURL>
+	<winCollection>Fordham, Providence, Charlotte U, Binghamton, 
+St. Bonaventure, Massachusetts, St. Josephs, Pennsylvania, 
+Saint Louis, Rhode Island, Columbia</winCollection>
+	<lossCollection>Baylor, Missouri, Oklahoma State, Villanova, 
+Rider, Towson, Geo Washington, Richmond, 
+Massachusetts, Duquesne, Temple, Dayton, 
+St. Bonaventure, Geo Washington, Xavier, Temple, 
+Temple</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Denver U</team>
+	<numWins>11</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>27.968</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2172.gif</iconURL>
+	<winCollection>North Texas, Fla Atlantic, CS Northridge, UL Monroe, 
+UL Monroe, No. Colorado, UL Lafayette, Arkansas LR, 
+Arkansas State, Western Kentucky, Florida Intl</winCollection>
+	<lossCollection>Cal Santa Barb, Oregon, N Dakota St, Colorado State, 
+Boise State, Utah State, Saint Marys CA, Portland U, 
+Wyoming, Middle Tenn St, Arkansas LR, Arkansas State, 
+Troy, South Alabama, UL Lafayette, North Texas, 
+Florida Intl</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Utah U</team>
+	<numWins>12</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>27.924</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/254.gif</iconURL>
+	<winCollection>Bradley, Weber State, Montana, Wyoming, 
+Wyoming, Boise State, TCU, TCU, 
+Fresno State, New Mexico, New Mexico, Pepperdine
+</winCollection>
+	<lossCollection>Utah State, Oral Roberts, Michigan, Butler, 
+Hawaii, San Diego, Portland U, Air Force, 
+San Diego State, BYU, Colorado State, UNLV, 
+Air Force, San Diego State, BYU, Colorado State, 
+UNLV, San Diego State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Loyola Maryland</team>
+	<numWins>12</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>27.923</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2352.gif</iconURL>
+	<winCollection>Niagara, Fairfield, Manhattan, Manhattan, 
+Siena, Marist, Marist, Towson, 
+Dartmouth, St. Peters, Canisius, Iona
+</winCollection>
+	<lossCollection>Drexel, St. Peters, Fairfield, George Mason, 
+Georgetown, Iona, Siena, Rider, 
+Niagara, Rider, Canisius, St. Peters
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Iowa State</team>
+	<numWins>12</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>27.900</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/66.gif</iconURL>
+	<winCollection>Creighton, No Illinois, Virginia, Nebraska, 
+Baylor, Montana State, Iowa, Drake, 
+Dartmouth, SE Missouri St, Colorado, Northern Arizona
+</winCollection>
+	<lossCollection>Northern Iowa, California, Nebraska, Kansas, 
+Oklahoma State, Missouri, Texas Tech, Oklahoma, 
+Colorado, Kansas State, Kansas, Texas AM, 
+Missouri, Texas, Kansas State, Colorado
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>So Illinois</team>
+	<numWins>11</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>27.858</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/79.gif</iconURL>
+	<winCollection>Bradley, Austin Peay, Wichita State, No Illinois, 
+Illinois State, Illinois State, Evansville, Northern Iowa, 
+SE Missouri St, Wright State, Wisc Green Bay</winCollection>
+	<lossCollection>Illinois, Northeastern, Purdue, New Mexico, 
+Western Kentucky, Drake, Creighton, Missouri St, 
+Northern Iowa, Illinois State, Wichita State, Evansville, 
+Drake, Bradley, Creighton, Indiana State, 
+Missouri St, Indiana State, Missouri St</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Eastern Michigan</team>
+	<numWins>7</numWins>
+	<numLosses>22</numLosses>
+	<pageRank>27.848</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2199.gif</iconURL>
+	<winCollection>Buffalo, Jacksonville St, Rochester College, Central Michigan, 
+Akron, Toledo, Toledo</winCollection>
+	<lossCollection>Michigan State, Canisius, James Madison, Monmouth, 
+North Dakota, Idaho U, Drake, Detroit U, 
+Valparaiso, Samford, No Illinois, Western Michigan, 
+Ball State, Ohio, Bowling Green, Miami Ohio, 
+Kent State, Central Michigan, Ball State, Western Michigan, 
+No Illinois, Akron</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Pennsylvania</team>
+	<numWins>10</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>27.826</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/219.gif</iconURL>
+	<winCollection>Davidson, Dartmouth, Dartmouth, Yale, 
+Yale, St. Josephs, Delaware, Columbia, 
+Brown, Brown</winCollection>
+	<lossCollection>Manhattan, Drexel, Pittsburgh, Villanova, 
+Marist, Kentucky, LaSalle, Temple, 
+Harvard, Princeton, Cornell, Columbia, 
+Cornell, Harvard, Princeton</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>UL Lafayette</team>
+	<numWins>12</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>27.818</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/309.gif</iconURL>
+	<winCollection>North Texas, Fla Atlantic, Troy, South Alabama, 
+UL Monroe, UL Monroe, Denver U, Centenary, 
+Arkansas LR, Arkansas State, Western Kentucky, Florida Intl
+</winCollection>
+	<lossCollection>New Mexico State, Creighton, Cleveland State, Houston U, 
+Tulane, Central Florida, New Mexico State, Denver U, 
+North Texas, Middle Tenn St, Arkansas State, Arkansas LR, 
+Western Kentucky</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Yale</team>
+	<numWins>9</numWins>
+	<numLosses>9</numLosses>
+	<pageRank>27.810</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/43.gif</iconURL>
+	<winCollection>Harvard, Boston College, Dartmouth, Dartmouth, 
+Cornell, Columbia, Columbia, Brown, 
+Brown</winCollection>
+	<lossCollection>Providence, Illinois, Stanford, Pennsylvania, 
+Princeton, Harvard, Princeton, Pennsylvania, 
+Cornell</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Rice</team>
+	<numWins>10</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>27.797</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/242.gif</iconURL>
+	<winCollection>Central Florida, Arkansas LR, Stetson, Houston U, 
+Houston U, TCU, Memphis U, Tulane, 
+SMU, LSU</winCollection>
+	<lossCollection>Santa Clara, North Texas, Texas, Arizona, 
+Miami Florida, Oral Roberts, Tulane, Tulsa, 
+So Mississippi, UTEP, SMU, UTEP, 
+UAB, Marshall, SMU, East Carolina, 
+Tulsa, Tulsa</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Arkansas State</team>
+	<numWins>12</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>27.772</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2032.gif</iconURL>
+	<winCollection>North Texas, Troy, Middle Tenn St, South Alabama, 
+UL Monroe, UL Monroe, Denver U, UL Lafayette, 
+Arkansas LR, Arkansas LR, SE Missouri St, Western Kentucky
+</winCollection>
+	<lossCollection>Mississippi, Missouri St, Belmont, Pacific, 
+Pepperdine, Memphis U, Georgia, Missouri St, 
+Florida Intl, Fla Atlantic, Denver U, North Texas, 
+UL Lafayette, Arkansas LR</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Cal Poly SLO</team>
+	<numWins>13</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>27.771</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/13.gif</iconURL>
+	<winCollection>Cal Riverside, Cal Riverside, CS Northridge, Hawaii, 
+CS Fullerton, CS Fullerton, Cal Irvine, UC Davis, 
+UC Davis, Pacific, Pacific, Loyola Marymount, 
+Pepperdine</winCollection>
+	<lossCollection>Montana State, Sacramento State, Loyola Marymount, UCLA, 
+San Diego State, California, Long Beach State, Cal Irvine, 
+CS Northridge, Cal Santa Barb, Northern Arizona, Long Beach State, 
+Cal Santa Barb, Cal Riverside</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Rutgers</team>
+	<numWins>11</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>27.746</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>IMAGES/helmet.png</iconURL>
+	<winCollection>Depaul, Providence, Fairfield, Seton Hall, 
+Seton Hall, Villanova, Miami Florida, Marist, 
+St. Peters, South Florida, Auburn</winCollection>
+	<lossCollection>Princeton, St. Josephs, North Carolina, Villanova, 
+Marquette, Connecticut, Georgetown, Cincinnati, 
+Pittsburgh, St. Johns, Notre Dame, Seton Hall, 
+Syracuse, Louisville, West Virginia, Providence, 
+St. Johns</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Baylor</team>
+	<numWins>10</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>27.735</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/239.gif</iconURL>
+	<winCollection>Arizona State, Texas Tech, LaSalle, Nebraska, 
+Texas AM, Texas AM, Oklahoma State, Colorado, 
+Oklahoma, San Diego</winCollection>
+	<lossCollection>Gonzaga, Washington State, Florida State, Iowa State, 
+Kansas, Kansas State, Oklahoma, Texas, 
+Texas Tech, Missouri, Oklahoma State, Texas, 
+Oklahoma</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Canisius</team>
+	<numWins>11</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>27.712</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2099.gif</iconURL>
+	<winCollection>Niagara, Loyola Maryland, Rider, St. Bonaventure, 
+Manhattan, Manhattan, Siena, Marist, 
+St. Peters, Eastern Michigan, Iona</winCollection>
+	<lossCollection>Syracuse, Buffalo, Iona, Marist, 
+St. Peters, Rider, Siena, Fairfield, 
+Fairfield, Loyola Maryland, Niagara, Boston U, 
+Rider</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Wisc Green Bay</team>
+	<numWins>11</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>27.703</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2739.gif</iconURL>
+	<winCollection>Valparaiso, Valparaiso, Youngstown State, Youngstown State, 
+Loyola Chicago, Wyoming, Wisc Milwaukee, N Dakota St, 
+Illinois Chicago, Detroit U, Miami Ohio</winCollection>
+	<lossCollection>Marquette, San Diego State, IUPUI, Cleveland State, 
+Duquesne, Buffalo, Wisconsin, Detroit U, 
+Wright State, Butler, Wright State, Wisc Milwaukee, 
+Illinois Chicago, Loyola Chicago, Butler, So Illinois, 
+Cleveland State, Wright State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Iowa</team>
+	<numWins>10</numWins>
+	<numLosses>20</numLosses>
+	<pageRank>27.670</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2294.gif</iconURL>
+	<winCollection>Alabama, Michigan State, UL Monroe, Northern Iowa, 
+Drake, Purdue, Indiana U, Indiana U, 
+Louisiana Tech, Idaho State</winCollection>
+	<lossCollection>South Dakota St, Xavier, Long Beach State, Wake Forest, 
+Iowa State, Illinois, Ohio State, Purdue, 
+Northwestern, Minnesota U, Ohio State, Penn State, 
+Michigan, Wisconsin, Minnesota U, Northwestern, 
+Michigan, Illinois, Michigan State, Michigan State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Montana State</team>
+	<numWins>11</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>27.556</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/147.gif</iconURL>
+	<winCollection>Portland State, Cal Poly SLO, E. Washington, E. Washington, 
+Weber State, Central Michigan, CS Fullerton, San Francisco, 
+Sacramento State, Northern Arizona, Idaho State</winCollection>
+	<lossCollection>Hawaii, Iowa State, Illinois State, Cal Riverside, 
+UCLA, No. Colorado, Montana, Idaho State, 
+Montana, Northern Arizona, Weber State, No. Colorado, 
+Sacramento State, San Jose State, Idaho U, Portland State, 
+Northern Arizona</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>South Dakota St</team>
+	<numWins>12</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>27.547</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2571.gif</iconURL>
+	<winCollection>Southern Utah, Western Illinois, Western Illinois, IPFW, 
+IPFW, IPFW, Iowa, Central Michigan, 
+Centenary, Centenary, IUPUI, Nevada
+</winCollection>
+	<lossCollection>N Dakota St, Wisc Milwaukee, Western Michigan, Minnesota U, 
+Oral Roberts, IUPUI, Oakland, UMKC, 
+Oral Roberts, Oakland, N Dakota St, Oakland
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Bowling Green</team>
+	<numWins>12</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>27.547</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/189.gif</iconURL>
+	<winCollection>Buffalo, Buffalo, No Illinois, No Illinois, 
+Ball State, Manhattan, Eastern Michigan, Saint Louis, 
+Ohio, Florida Intl, Miami Ohio, Toledo
+</winCollection>
+	<lossCollection>Michigan, Duquesne, Niagara, Detroit U, 
+Albany NY, Michigan State, Western Kentucky, Wisc Milwaukee, 
+Kent State, Akron, Western Michigan, Central Michigan, 
+Akron, Youngstown State, Ohio, Miami Ohio, 
+Kent State, Western Michigan</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>CS Northridge</team>
+	<numWins>12</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>27.536</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2463.gif</iconURL>
+	<winCollection>Depaul, Cal Poly SLO, E. Washington, CS Fullerton, 
+CS Fullerton, CS Fullerton, Cal Irvine, Cal Irvine, 
+UC Davis, Cal Santa Barb, Cal Santa Barb, Pacific
+</winCollection>
+	<lossCollection>UCLA, California, Virginia Tech, Tulsa, 
+Air Force, Denver U, Santa Clara, Pacific, 
+Long Beach State, Cal Riverside, Cal Riverside, Long Beach State, 
+Cal Poly SLO, UC Davis, Cal Santa Barb</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>NC Wilmington</team>
+	<numWins>11</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>27.533</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/350.gif</iconURL>
+	<winCollection>Georgia State, Morehead State, Geo Washington, Towson, 
+Towson, Wake Forest, William  Mary, William  Mary, 
+Drexel, Delaware, Toledo</winCollection>
+	<lossCollection>Florida, Ohio State, George Mason, Illinois State, 
+Va Commonwealth, James Madison, Hofstra, Old Dominion, 
+Northeastern, Va Commonwealth, Georgia State, George Mason, 
+Charleston Sou, Hofstra, Northeastern, Georgia State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Vermont</team>
+	<numWins>4</numWins>
+	<numLosses>5</numLosses>
+	<pageRank>27.527</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/261.gif</iconURL>
+	<winCollection>Binghamton, Binghamton, Binghamton, Stony Brook
+</winCollection>
+	<lossCollection>Boston U, Coll Charleston, Boston U, Stony Brook, 
+Cleveland State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Southern Utah</team>
+	<numWins>8</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>27.508</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/253.gif</iconURL>
+	<winCollection>Houston Baptist, Western Illinois, Western Illinois, IPFW, 
+Centenary, Centenary, IUPUI, N Dakota St
+</winCollection>
+	<lossCollection>Utah State, Drake, Ball State, Oakland, 
+IPFW, Weber State, UNLV, UC Davis, 
+S Dakota St, UMKC, Oral Roberts, IUPUI, 
+N Dakota St, South Dakota St, UMKC, Oral Roberts, 
+Oakland, Oakland</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Massachusetts</team>
+	<numWins>10</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>27.483</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/113.gif</iconURL>
+	<winCollection>LaSalle, Charlotte U, Rider, St. Bonaventure, 
+TCU, Dayton, St. Josephs, New Mexico State, 
+Rhode Island, Rhode Island</winCollection>
+	<lossCollection>Boston College, Seton Hall, Central Florida, Xavier, 
+Richmond, Saint Louis, St. Josephs, Geo Washington, 
+Duquesne, LaSalle, Temple, Fordham, 
+Dayton</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Delaware</team>
+	<numWins>10</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>27.454</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/48.gif</iconURL>
+	<winCollection>Old Dominion, Georgia State, Towson, Towson, 
+Northeastern, Northeastern, Northeastern, William  Mary, 
+William  Mary, Santa Clara</winCollection>
+	<lossCollection>Ohio, Cornell, Villanova, Pennsylvania, 
+American, George Mason, Drexel, NC Wilmington, 
+George Mason, James Madison, Old Dominion, Drexel, 
+Va Commonwealth, Hofstra, Rider, Hofstra, 
+Old Dominion</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Drake</team>
+	<numWins>11</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>27.439</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2181.gif</iconURL>
+	<winCollection>Bradley, Creighton, Southern Utah, Illinois State, 
+Evansville, Northern Iowa, Boise State, So Illinois, 
+So Illinois, Eastern Michigan, Detroit U</winCollection>
+	<lossCollection>Iowa State, St. Johns, Weber State, Colorado State, 
+Iowa, Dartmouth, Creighton, Wichita State, 
+Indiana State, Evansville, Wichita State, Northern Iowa, 
+Missouri St, Illinois State, Indiana State, Missouri St, 
+Bradley, Bradley</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>St. Josephs</team>
+	<numWins>9</numWins>
+	<numLosses>21</numLosses>
+	<pageRank>27.439</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2603.gif</iconURL>
+	<winCollection>Fordham, Fairfield, Charlotte U, St. Bonaventure, 
+Geo Washington, Siena, Rutgers, Duquesne, 
+Massachusetts</winCollection>
+	<lossCollection>Western Kentucky, Penn State, Drexel, Villanova, 
+Princeton, Minnesota U, Creighton, Duquesne, 
+Geo Washington, Dayton, Saint Louis, Rhode Island, 
+Pennsylvania, LaSalle, Temple, Richmond, 
+Xavier, Temple, Massachusetts, Richmond, 
+Dayton</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>IPFW</team>
+	<numWins>12</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>27.432</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2870.gif</iconURL>
+	<winCollection>Southern Utah, Western Illinois, Western Illinois, Centenary, 
+Centenary, UMKC, UMKC, Oral Roberts, 
+Oral Roberts, N Dakota St, N Dakota St, Toledo
+</winCollection>
+	<lossCollection>Xavier, Cincinnati, Valparaiso, Purdue, 
+IUPUI, Oakland, South Dakota St, IUPUI, 
+Oakland, South Dakota St, Southern Utah, South Dakota St
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>N Dakota St</team>
+	<numWins>11</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>27.415</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2449.gif</iconURL>
+	<winCollection>South Dakota St, South Dakota St, Southern Utah, Western Illinois, 
+Denver U, Centenary, Centenary, UMKC, 
+UC Davis, Oral Roberts, Cal Santa Barb</winCollection>
+	<lossCollection>Oregon, Minnesota U, Wisc Green Bay, Fresno State, 
+UMKC, Southern Utah, IUPUI, Western Illinois, 
+IPFW, Oakland, Oral Roberts, IUPUI, 
+Oakland, IPFW, Oral Roberts</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Eastern Kentucky</team>
+	<numWins>11</numWins>
+	<numLosses>15</numLosses>
+	<pageRank>27.393</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2198.gif</iconURL>
+	<winCollection>Indiana State, Jacksonville St, Jacksonville St, Tenn Martin, 
+Georgia Southern, Morehead State, SE Missouri St, SE Missouri St, 
+Tennessee State, Eastern Illinois, Eastern Illinois</winCollection>
+	<lossCollection>Loyola Chicago, Texas-Pan American, Murray State, Minnesota U, 
+Austin Peay, Tennessee State, Georgia, Tennessee Tech, 
+Austin Peay, Tennessee Tech, Morehead State, Western Carolina, 
+Tenn Martin, Murray State, SE Missouri St</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Jacksonville St</team>
+	<numWins>4</numWins>
+	<numLosses>21</numLosses>
+	<pageRank>27.251</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/55.gif</iconURL>
+	<winCollection>South Dakota, SE Missouri St, Tennessee State, Eastern Illinois
+</winCollection>
+	<lossCollection>UL Monroe, Illinois State, UAB, Tennessee Tech, 
+Oregon, SE Missouri St, Eastern Illinois, South Carolina, 
+Eastern Kentucky, Morehead State, Murray State, Tenn Martin, 
+Tennessee State, Austin Peay, Morehead State, Eastern Kentucky, 
+Tenn Martin, Murray State, Austin Peay, Eastern Michigan, 
+Tennessee Tech</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Oregon State</team>
+	<numWins>8</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>27.182</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/204.gif</iconURL>
+	<winCollection>Arizona State, Charlotte U, Arizona, USC, 
+Stanford, Stanford, Illinois Chicago, Washington U
+</winCollection>
+	<lossCollection>Colorado, Montana, Geo Washington, Washington State, 
+Washington U, UCLA, Oregon, California, 
+Stanford, Washington State, USC, UCLA, 
+Oregon, California, Arizona, Arizona State, 
+Arizona</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Cornell</team>
+	<numWins>8</numWins>
+	<numLosses>14</numLosses>
+	<pageRank>27.181</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/172.gif</iconURL>
+	<winCollection>Dartmouth, Yale, Pennsylvania, Pennsylvania, 
+Delaware, Wofford, Brown, Brown
+</winCollection>
+	<lossCollection>Seton Hall, St. Bonaventure, Syracuse, Minnesota U, 
+New Hampshire, Buffalo, Columbia, Columbia, 
+Dartmouth, Harvard, Yale, Princeton, 
+Harvard, Princeton</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Fresno State</team>
+	<numWins>10</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>27.160</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/278.gif</iconURL>
+	<winCollection>Cal Riverside, Hawaii, San Jose State, N Dakota St, 
+Nevada, New Mexico State, Louisiana Tech, Louisiana Tech, 
+San Diego, Pepperdine</winCollection>
+	<lossCollection>BYU, Cal Santa Barb, Washington State, Utah U, 
+Colorado State, Pacific, New Mexico State, Utah State, 
+Idaho U, Hawaii, Nevada, San Jose State, 
+Boise State, Utah State, Boise State, Idaho U, 
+Nevada</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Pepperdine</team>
+	<numWins>10</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>27.144</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2492.gif</iconURL>
+	<winCollection>San Francisco, Cal Irvine, Arkansas State, Pacific, 
+Nevada, Portland U, San Diego, San Diego, 
+San Diego, Loyola Marymount</winCollection>
+	<lossCollection>Portland State, UCLA, Missouri St, Northern Arizona, 
+Utah U, Fresno State, Cal Poly SLO, Alabama, 
+Miami Florida, Saint Marys CA, Gonzaga, Portland U, 
+Santa Clara, Saint Marys CA, Gonzaga, Loyola Marymount, 
+San Francisco, Santa Clara, San Francisco</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Saint Louis</team>
+	<numWins>9</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>27.132</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/139.gif</iconURL>
+	<winCollection>Fordham, Charlotte U, Northeastern, Duquesne, 
+Massachusetts, IUPUI, Tennessee State, Dayton, 
+St. Josephs</winCollection>
+	<lossCollection>Austin Peay, Georgia, Portland U, Duke, 
+Missouri St, So Mississippi, Mississippi, Bowling Green, 
+Dayton, Temple, Duquesne, Rhode Island, 
+Geo Washington, Xavier, LaSalle, Richmond, 
+St. Bonaventure, Xavier, Rhode Island</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Bradley</team>
+	<numWins>10</numWins>
+	<numLosses>20</numLosses>
+	<pageRank>27.116</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/71.gif</iconURL>
+	<winCollection>Creighton, Tenn Martin, No Illinois, Evansville, 
+Drake, Drake, So Illinois, USC, 
+Detroit U, Loyola Marymount</winCollection>
+	<lossCollection>TCU, Eastern Illinois, Western Carolina, Utah U, 
+Duke, Indiana State, Wichita State, So Illinois, 
+Drake, Northern Iowa, Indiana State, Missouri St, 
+Creighton, Evansville, Illinois State, Wichita State, 
+Missouri St, Northern Iowa, Illinois State, Wichita State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Wake Forest</team>
+	<numWins>6</numWins>
+	<numLosses>22</numLosses>
+	<pageRank>27.089</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/154.gif</iconURL>
+	<winCollection>NC Greensboro, Virginia, Iowa, Hampton, 
+Marist, Elon</winCollection>
+	<lossCollection>Va Commonwealth, Winthrop, NC Wilmington, Xavier, 
+Richmond, Gonzaga, NC State, Maryland, 
+Virginia Tech, Georgia Tech, Duke, Florida State, 
+Maryland, Miami Florida, NC State, North Carolina, 
+Florida State, Virginia Tech, Clemson, Georgia Tech, 
+Boston College, Boston College</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>SE Missouri St</team>
+	<numWins>8</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>26.961</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2546.gif</iconURL>
+	<winCollection>Eastern Kentucky, Jacksonville St, Murray State, Tenn Martin, 
+Sacramento State, Eastern Illinois, Eastern Illinois, Tennessee Tech
+</winCollection>
+	<lossCollection>UAB, Arkansas, Arkansas State, Austin Peay, 
+Tennessee State, Iowa State, So Illinois, SMU, 
+Morehead State, Eastern Kentucky, Tenn Martin, Murray State, 
+Jacksonville St, Tennessee Tech, Eastern Kentucky, Morehead State, 
+Tennessee State, Austin Peay, Austin Peay</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Oklahoma</team>
+	<numWins>8</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>26.942</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/201.gif</iconURL>
+	<winCollection>Texas Tech, Baylor, Baylor, Iowa State, 
+Oral Roberts, Sacramento State, Oklahoma State, Colorado
+</winCollection>
+	<lossCollection>Kentucky, Virginia, Chaminade, Arkansas, 
+Arizona, Cincinnati, Texas AM, Baylor, 
+Texas, Oklahoma State, Texas, Missouri, 
+Nebraska, Kansas State, Texas AM, Kansas, 
+Texas Tech, Texas</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Cal Riverside</team>
+	<numWins>9</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>26.930</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/27.gif</iconURL>
+	<winCollection>CS Northridge, CS Northridge, Cal Poly SLO, Montana State, 
+CS Fullerton, Cal Irvine, Cal Irvine, UC Davis, 
+SMU</winCollection>
+	<lossCollection>UNLV, Lamar, Portland State, San Jose State, 
+Stanford, Saint Marys CA, CS Fullerton, Cal Santa Barb, 
+Cal Poly SLO, UC Davis, Pacific, Cal Santa Barb, 
+Cal Poly SLO, Long Beach State, Fresno State, Pacific, 
+Long Beach State, Long Beach State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>CS Fullerton</team>
+	<numWins>9</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>26.878</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2239.gif</iconURL>
+	<winCollection>Cal Riverside, Long Beach State, Cal Irvine, UC Davis, 
+Cal Santa Barb, Pacific, Pacific, San Diego, 
+San Diego</winCollection>
+	<lossCollection>Central Michigan, Hawaii, Montana State, USC, 
+Montana, Arizona, Portland State, Montana, 
+UC Davis, Cal Irvine, Cal Poly SLO, CS Northridge, 
+Long Beach State, Cal Riverside, CS Northridge, Cal Santa Barb, 
+Idaho State, Cal Poly SLO, CS Northridge</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>UMKC</team>
+	<numWins>9</numWins>
+	<numLosses>13</numLosses>
+	<pageRank>26.735</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/140.gif</iconURL>
+	<winCollection>South Dakota St, Southern Utah, Southern Utah, Western Illinois, 
+Western Illinois, Centenary, Centenary, IUPUI, 
+N Dakota St</winCollection>
+	<lossCollection>Wichita State, IPFW, Oakland, Kansas State, 
+S Dakota St, Kansas, Oral Roberts, N Dakota St, 
+Oral Roberts, IUPUI, Oakland, IPFW, 
+IUPUI</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Texas Tech</team>
+	<numWins>8</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>26.724</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2641.gif</iconURL>
+	<winCollection>Nebraska, Baylor, UL Monroe, Georgia Southern, 
+Iowa State, Oral Roberts, Oklahoma State, Oklahoma
+</winCollection>
+	<lossCollection>North Texas, Saint Marys CA, South Florida, Washington U, 
+TCU, UTEP, New Mexico, Baylor, 
+Texas, Kansas State, Oklahoma, Kansas, 
+Texas, Texas AM, Missouri, Colorado, 
+Oklahoma State, Texas AM, Missouri</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>E. Washington</team>
+	<numWins>7</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>26.695</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/331.gif</iconURL>
+	<winCollection>Portland State, Weber State, Montana, Sacramento State, 
+Northern Arizona, Idaho State, Idaho State</winCollection>
+	<lossCollection>San Jose State, Washington U, Boise State, Idaho U, 
+Gonzaga, San Jose State, Nebraska, No. Colorado, 
+Portland State, Montana, Montana State, Sacramento State, 
+No. Colorado, Weber State, Northern Arizona, CS Northridge, 
+Montana State, Weber State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>South Florida</team>
+	<numWins>8</numWins>
+	<numLosses>23</numLosses>
+	<pageRank>26.694</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/58.gif</iconURL>
+	<winCollection>Texas Tech, Depaul, Depaul, Providence, 
+Villanova, Va Commonwealth, Georgia Southern, Auburn
+</winCollection>
+	<lossCollection>So Mississippi, Central Florida, BYU, Fla Atlantic, 
+Kent State, James Madison, Cleveland State, Seton Hall, 
+Connecticut, Villanova, Louisville, Cincinnati, 
+Rutgers, West Virginia, Providence, Syracuse, 
+Marquette, Notre Dame, Pittsburgh, Georgetown, 
+Pittsburgh, St. Johns, Cincinnati</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Auburn</team>
+	<numWins>7</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>26.679</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2.gif</iconURL>
+	<winCollection>Mississippi, Middle Tenn St, Florida State, Georgia Southern, 
+Mississippi St, South Carolina, LSU</winCollection>
+	<lossCollection>Samford, Campbell, Rutgers, South Florida, 
+LSU, Kentucky, Mississippi St, Florida, 
+Alabama, Arkansas, Tennessee, Georgia, 
+Mississippi, Vanderbilt, Alabama, Arkansas, 
+Georgia</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Troy</team>
+	<numWins>7</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>26.669</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2653.gif</iconURL>
+	<winCollection>North Texas, Middle Tenn St, South Alabama, UL Monroe, 
+Denver U, Western Kentucky, Western Michigan</winCollection>
+	<lossCollection>Alabama, Georgia State, Mississippi St, UAB, 
+Arkansas, Miami Ohio, Fla Atlantic, Idaho State, 
+Utah State, UL Lafayette, Arkansas LR, Middle Tenn St, 
+Western Kentucky, South Alabama, Florida Intl, Arkansas State, 
+Fla Atlantic, Florida Intl, North Texas</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Charlotte U</team>
+	<numWins>6</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>26.659</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2429.gif</iconURL>
+	<winCollection>Fordham, East Carolina, Tennessee, Georgia Tech, 
+Wright State, Xavier</winCollection>
+	<lossCollection>George Mason, Coastal Carolina, Oregon State, East Carolina, 
+Davidson, Richmond, St. Bonaventure, Massachusetts, 
+Duquesne, Temple, LaSalle, Geo Washington, 
+Rhode Island, Dayton, Saint Louis, Geo Washington, 
+Richmond, Xavier, St. Josephs</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Niagara</team>
+	<numWins>8</numWins>
+	<numLosses>20</numLosses>
+	<pageRank>26.653</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/315.gif</iconURL>
+	<winCollection>Loyola Maryland, Bowling Green, St. Bonaventure, Manhattan, 
+Central Michigan, Siena, Marist, Canisius
+</winCollection>
+	<lossCollection>Wisc Milwaukee, Georgia Tech, Albany NY, Detroit U, 
+Marist, Iona, Buffalo, Drexel, 
+Fairfield, Rider, St. Peters, Manhattan, 
+Iona, Fairfield, Canisius, Siena, 
+St. Peters, Rider, Loyola Maryland, Marist
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Elon</team>
+	<numWins>9</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>26.647</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2210.gif</iconURL>
+	<winCollection>NC Greensboro, NC Greensboro, Samford, Davidson, 
+The Citadel, The Citadel, Georgia Southern, Georgia Southern, 
+Columbia</winCollection>
+	<lossCollection>South Carolina, Wake Forest, Maryland, Furman, 
+Wofford, Tennessee Chat, Duke, NC State, 
+Western Carolina, Appalachian St, Samford, Tennessee Chat, 
+Western Carolina, Appalachian St, Coll Charleston, Davidson, 
+Coll Charleston</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Marist</team>
+	<numWins>6</numWins>
+	<numLosses>23</numLosses>
+	<pageRank>26.617</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2368.gif</iconURL>
+	<winCollection>Niagara, Niagara, New Hampshire, Manhattan, 
+Canisius, Pennsylvania</winCollection>
+	<lossCollection>Villanova, Geo Washington, Belmont, Wake Forest, 
+Cal Irvine, Rutgers, Loyola Maryland, Princeton, 
+Fairfield, Siena, Iona, Rider, 
+Loyola Maryland, St. Peters, Manhattan, Canisius, 
+Niagara, St. Peters, Iona, Fairfield, 
+Rider, Siena, Fairfield</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>LSU</team>
+	<numWins>8</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>26.612</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/99.gif</iconURL>
+	<winCollection>Tenn Martin, Arkansas, South Alabama, Central Michigan, 
+Centenary, Houston U, Mississippi St, Auburn
+</winCollection>
+	<lossCollection>Memphis U, Wichita State, North Texas, Rice, 
+Virginia, Kentucky, Mississippi, Tennessee, 
+Alabama, South Carolina, Mississippi St, Mississippi, 
+Arkansas, Alabama, Florida, Vanderbilt, 
+Georgia, Auburn, Vanderbilt</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>South Alabama</team>
+	<numWins>8</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>26.534</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/6.gif</iconURL>
+	<winCollection>Troy, Middle Tenn St, Georgia Southern, Central Michigan, 
+Denver U, Arkansas LR, Western Kentucky, Florida Intl
+</winCollection>
+	<lossCollection>So Mississippi, UAB, LSU, Alabama, 
+Louisville, Arkansas State, Fla Atlantic, Florida Intl, 
+UL Monroe, Western Kentucky, UL Lafayette, Middle Tenn St, 
+Troy, North Texas, Fla Atlantic, Arkansas LR
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Houston U</team>
+	<numWins>6</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>26.506</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/248.gif</iconURL>
+	<winCollection>Central Florida, UL Lafayette, Tulsa, Tulane, 
+Nevada, SMU</winCollection>
+	<lossCollection>Louisiana Tech, TCU, LSU, So Mississippi, 
+UTEP, Rice, East Carolina, Marshall, 
+Tulsa, SMU, UTEP, Memphis U, 
+UAB, Tulane, Rice, Marshall
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Manhattan</team>
+	<numWins>5</numWins>
+	<numLosses>23</numLosses>
+	<pageRank>26.505</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2363.gif</iconURL>
+	<winCollection>Niagara, Siena, Marist, Stony Brook, 
+Pennsylvania</winCollection>
+	<lossCollection>Wisconsin, Texas AM, Georgia, Rider, 
+St. Peters, Fordham, Hofstra, Bowling Green, 
+Rider, Loyola Maryland, Marist, Fla Atlantic, 
+Canisius, Loyola Maryland, St. Peters, Fairfield, 
+Siena, Iona, Fairfield, Iona, 
+Canisius, Niagara, Siena</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Eastern Illinois</team>
+	<numWins>6</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>26.458</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2197.gif</iconURL>
+	<winCollection>Bradley, Jacksonville St, Murray State, Morehead State, 
+Tennessee State, Toledo</winCollection>
+	<lossCollection>Ball State, Loyola Chicago, Austin Peay, Ball State, 
+Tennessee Tech, Western Michigan, SE Missouri St, Eastern Kentucky, 
+Tenn Martin, Tennessee Tech, Jacksonville St, SE Missouri St, 
+Murray State, Morehead State, Eastern Kentucky, Tenn Martin, 
+Austin Peay, Tennessee State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Wyoming</team>
+	<numWins>7</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>26.443</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2751.gif</iconURL>
+	<winCollection>Indiana State, Western Illinois, Denver U, Centenary, 
+TCU, Air Force, New Mexico</winCollection>
+	<lossCollection>No. Colorado, Missouri, Providence, Cal Irvine, 
+Wisc Green Bay, Colorado State, TCU, Utah U, 
+Air Force, UNLV, San Diego State, BYU, 
+Colorado State, New Mexico, Utah U, UNLV, 
+San Diego State, BYU, TCU</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Brown</team>
+	<numWins>5</numWins>
+	<numLosses>12</numLosses>
+	<pageRank>26.401</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/225.gif</iconURL>
+	<winCollection>Fordham, Princeton, Dartmouth, Dartmouth, 
+Columbia</winCollection>
+	<lossCollection>Rhode Island, Providence, Yale, Yale, 
+Princeton, Pennsylvania, Cornell, Harvard, 
+Pennsylvania, Harvard, Cornell, Columbia
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Central Michigan</team>
+	<numWins>9</numWins>
+	<numLosses>21</numLosses>
+	<pageRank>26.391</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2117.gif</iconURL>
+	<winCollection>No Illinois, No Illinois, Bowling Green, CS Fullerton, 
+Eastern Michigan, Illinois Chicago, Ohio, Toledo, 
+Toledo</winCollection>
+	<lossCollection>Montana State, Hawaii, South Alabama, Temple, 
+Depaul, LSU, Wright State, Detroit U, 
+South Dakota St, UNLV, Western Michigan, Ball State, 
+Eastern Michigan, Miami Ohio, Akron, Kent State, 
+Buffalo, Niagara, Ball State, Western Michigan, 
+Buffalo</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Stetson</team>
+	<numWins>2</numWins>
+	<numLosses>7</numLosses>
+	<pageRank>26.365</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/56.gif</iconURL>
+	<winCollection>E Tennessee St, Mercer</winCollection>
+	<lossCollection>Rice, Akron, Arkansas LR, Kennesaw St, 
+Lipscomb, Belmont, USC Upstate</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>TCU</team>
+	<numWins>7</numWins>
+	<numLosses>22</numLosses>
+	<pageRank>26.362</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2628.gif</iconURL>
+	<winCollection>Texas Tech, Bradley, Wyoming, Wyoming, 
+Houston U, USC, SMU</winCollection>
+	<lossCollection>Rider, Massachusetts, Northern Iowa, Nebraska, 
+Tulsa, Rice, San Diego State, UNLV, 
+Colorado State, BYU, Utah U, New Mexico, 
+Air Force, San Diego State, UNLV, Wyoming, 
+Colorado State, BYU, Utah U, New Mexico, 
+Air Force, BYU</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Florida Intl</team>
+	<numWins>7</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>26.351</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2229.gif</iconURL>
+	<winCollection>Troy, Troy, South Alabama, UL Monroe, 
+Denver U, Arkansas State, Tennessee Chat</winCollection>
+	<lossCollection>Florida State, Marshall, Louisville, Bowling Green, 
+North Texas, Denver U, Arkansas LR, South Alabama, 
+Western Kentucky, Middle Tenn St, Fla Atlantic, UL Lafayette, 
+Middle Tenn St, Fla Atlantic, Western Kentucky, Middle Tenn St
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Depaul</team>
+	<numWins>6</numWins>
+	<numLosses>24</numLosses>
+	<pageRank>26.350</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/305.gif</iconURL>
+	<winCollection>Fla Atlantic, Providence, No Illinois, Loyola Chicago, 
+Central Michigan, Wisc Milwaukee</winCollection>
+	<lossCollection>Western Carolina, Oklahoma State, CS Northridge, Stanford, 
+Indiana State, Ball State, Cincinnati, Georgetown, 
+West Virginia, Seton Hall, Connecticut, Marquette, 
+Pittsburgh, South Florida, Notre Dame, Louisville, 
+Cincinnati, West Virginia, Villanova, St. Johns, 
+South Florida, Rutgers, Syracuse, Connecticut
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>NC Greensboro</team>
+	<numWins>7</numWins>
+	<numLosses>23</numLosses>
+	<pageRank>26.332</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2430.gif</iconURL>
+	<winCollection>Samford, Davidson, Davidson, The Citadel, 
+Georgia Southern, Georgia Southern, Appalachian St</winCollection>
+	<lossCollection>Va Commonwealth, Florida State, Virginia Tech, East Carolina, 
+Wofford, Furman, Maryland, Wake Forest, 
+Clemson, Richmond, Duke, Samford, 
+Tennessee Chat, Elon, Tennessee Chat, Appalachian St, 
+Western Carolina, Coll Charleston, Miami Florida, Elon, 
+Western Carolina, Davidson, Western Carolina</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Columbia</team>
+	<numWins>6</numWins>
+	<numLosses>11</numLosses>
+	<pageRank>26.322</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/171.gif</iconURL>
+	<winCollection>Dartmouth, Dartmouth, Cornell, Cornell, 
+Pennsylvania, Brown</winCollection>
+	<lossCollection>LaSalle, St. Johns, Elon, Harvard, 
+Brown, Yale, Princeton, Harvard, 
+Pennsylvania, Princeton, Yale</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>The Citadel</team>
+	<numWins>6</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>26.320</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2643.gif</iconURL>
+	<winCollection>Western Carolina, Western Carolina, Samford, Davidson, 
+Georgia Southern, Appalachian St</winCollection>
+	<lossCollection>Richmond, James Madison, Davidson, Colorado, 
+New Mexico, Clemson, Wofford, Furman, 
+Tennessee Chat, Coll Charleston, Furman, Wofford, 
+NC Greensboro, Elon, Coll Charleston, Georgia Southern, 
+Appalachian St, Elon</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Youngstown State</team>
+	<numWins>6</numWins>
+	<numLosses>20</numLosses>
+	<pageRank>26.277</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2754.gif</iconURL>
+	<winCollection>Buffalo, Butler, Samford, Bowling Green, 
+Illinois Chicago, Toledo</winCollection>
+	<lossCollection>Akron, Wisc Milwaukee, Wisc Green Bay, NC State, 
+Kent State, Loyola Chicago, Valparaiso, Butler, 
+Cleveland State, Wright State, Detroit U, Loyola Chicago, 
+Illinois Chicago, Valparaiso, Wright State, Cleveland State, 
+Detroit U, Wisc Green Bay, Wisc Milwaukee, Valparaiso
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Tenn Martin</team>
+	<numWins>7</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>26.272</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2630.gif</iconURL>
+	<winCollection>Eastern Kentucky, Jacksonville St, Jacksonville St, SE Missouri St, 
+Tennessee State, Eastern Illinois, Eastern Illinois</winCollection>
+	<lossCollection>LSU, Memphis U, Morehead State, Eastern Kentucky, 
+Murray State, Ohio State, Tennessee, SE Missouri St, 
+Tennessee State, Austin Peay, Tennessee Tech, Murray State, 
+Austin Peay, Tennessee State, Tennessee Tech, Bradley, 
+Morehead State, Tennessee Tech</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Idaho State</team>
+	<numWins>6</numWins>
+	<numLosses>18</numLosses>
+	<pageRank>26.167</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/304.gif</iconURL>
+	<winCollection>Troy, Portland State, Montana State, CS Fullerton, 
+Sacramento State, Northern Arizona</winCollection>
+	<lossCollection>Colorado, Arizona, Iowa, Creighton, 
+Utah State, Western Michigan, Portland State, Northern Arizona, 
+No. Colorado, Weber State, Montana, Sacramento State, 
+E. Washington, E. Washington, Montana, Weber State, 
+No. Colorado, Montana State</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>UL Monroe</team>
+	<numWins>5</numWins>
+	<numLosses>22</numLosses>
+	<pageRank>26.097</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2433.gif</iconURL>
+	<winCollection>North Texas, Jacksonville St, South Alabama, No. Colorado, 
+Centenary</winCollection>
+	<lossCollection>Texas Tech, Iowa, Illinois State, South Dakota, 
+Kent State, Louisiana Tech, UTEP, Fla Atlantic, 
+Florida Intl, Denver U, Arkansas LR, North Texas, 
+UL Lafayette, Arkansas State, Troy, Middle Tenn St, 
+Western Kentucky, Arkansas State, Arkansas LR, Denver U, 
+UL Lafayette, Western Kentucky</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>UC Davis</team>
+	<numWins>6</numWins>
+	<numLosses>20</numLosses>
+	<pageRank>26.057</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/302.gif</iconURL>
+	<winCollection>Cal Riverside, Southern Utah, CS Northridge, CS Fullerton, 
+Cal Irvine, Sacramento State</winCollection>
+	<lossCollection>Fla Atlantic, Portland U, Wisc Milwaukee, Boise State, 
+California, UCLA, N Dakota St, CS Northridge, 
+Cal Santa Barb, Cal Poly SLO, Long Beach State, Pacific, 
+Cal Poly SLO, Cal Santa Barb, Long Beach State, Pacific, 
+Hawaii, Cal Irvine, Cal Riverside, CS Fullerton
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Illinois Chicago</team>
+	<numWins>6</numWins>
+	<numLosses>24</numLosses>
+	<pageRank>26.048</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/82.gif</iconURL>
+	<winCollection>Youngstown State, Illinois, Rhode Island, Wisc Green Bay, 
+Toledo, Toledo</winCollection>
+	<lossCollection>Pittsburgh, Coll Charleston, Central Michigan, Valparaiso, 
+Akron, Illinois State, No Illinois, Oregon State, 
+Youngstown State, Cleveland State, Wright State, Detroit U, 
+Wisc Milwaukee, Wisc Green Bay, Loyola Chicago, Cleveland State, 
+Detroit U, Wright State, Butler, Wisc Milwaukee, 
+Loyola Chicago, Butler, Valparaiso, Cleveland State
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Tulane</team>
+	<numWins>5</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>25.931</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2655.gif</iconURL>
+	<winCollection>UL Lafayette, Centenary, Houston U, Rice, 
+SMU</winCollection>
+	<lossCollection>Georgetown, Va Commonwealth, UTEP, East Carolina, 
+Tulsa, UTEP, So Mississippi, Rice, 
+UAB, SMU, Houston U, Central Florida, 
+Marshall, Tulsa, Memphis U, So Mississippi
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Sacramento State</team>
+	<numWins>5</numWins>
+	<numLosses>17</numLosses>
+	<pageRank>25.927</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/16.gif</iconURL>
+	<winCollection>Portland State, Cal Poly SLO, E. Washington, Montana State, 
+Idaho State</winCollection>
+	<lossCollection>UC Davis, Washington State, Loyola Marymount, Oklahoma, 
+E. Washington, Idaho State, Montana State, Montana, 
+Weber State, Northern Arizona, No. Colorado, Portland State, 
+Montana, SE Missouri St, Northern Arizona, Weber State, 
+No. Colorado</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>No Illinois</team>
+	<numWins>6</numWins>
+	<numLosses>21</numLosses>
+	<pageRank>25.825</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2459.gif</iconURL>
+	<winCollection>Eastern Michigan, Eastern Michigan, Akron, Illinois Chicago, 
+Toledo, Toledo</winCollection>
+	<lossCollection>Northwestern, Bradley, Boise State, Depaul, 
+Temple, So Illinois, Missouri, Iowa State, 
+Ball State, Central Michigan, Western Michigan, Buffalo, 
+Bowling Green, Ohio, Miami Ohio, Kent State, 
+Western Michigan, Seattle U, Central Michigan, Ball State, 
+Bowling Green</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>San Diego</team>
+	<numWins>3</numWins>
+	<numLosses>24</numLosses>
+	<pageRank>25.640</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/70.gif</iconURL>
+	<winCollection>Saint Marys CA, Utah U, Loyola Marymount</winCollection>
+	<lossCollection>Stanford, Boise State, CS Fullerton, New Mexico, 
+Cal Irvine, CS Fullerton, Fresno State, San Diego State, 
+Baylor, Mississippi St, NC State, Pepperdine, 
+Loyola Marymount, Santa Clara, San Francisco, Saint Marys CA, 
+Portland U, Gonzaga, Pepperdine, San Francisco, 
+Santa Clara, Portland U, Gonzaga, Pepperdine
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Fordham</team>
+	<numWins>3</numWins>
+	<numLosses>19</numLosses>
+	<pageRank>25.527</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2230.gif</iconURL>
+	<winCollection>St. Johns, Manhattan, Massachusetts</winCollection>
+	<lossCollection>Brown, Harvard, American, Santa Clara, 
+Temple, Geo Washington, Charlotte U, Saint Louis, 
+Dayton, Duquesne, St. Bonaventure, Rhode Island, 
+Richmond, Temple, St. Josephs, Xavier, 
+St. Bonaventure, Rhode Island, LaSalle</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Toledo</team>
+	<numWins>2</numWins>
+	<numLosses>28</numLosses>
+	<pageRank>25.415</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2649.gif</iconURL>
+	<winCollection>Valparaiso, Western Michigan</winCollection>
+	<lossCollection>Illinois, Temple, Illinois Chicago, Rhode Island, 
+Coll Charleston, Youngstown State, Illinois Chicago, Cincinnati, 
+IPFW, NC Wilmington, Alabama, Eastern Michigan, 
+Central Michigan, No Illinois, Ball State, Bowling Green, 
+Kent State, Buffalo, Akron, Ohio, 
+Miami Ohio, Ball State, Eastern Illinois, Western Michigan, 
+No Illinois, Central Michigan, Eastern Michigan, Ohio
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Towson</team>
+	<numWins>2</numWins>
+	<numLosses>24</numLosses>
+	<pageRank>25.247</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/119.gif</iconURL>
+	<winCollection>LaSalle, Western Michigan</winCollection>
+	<lossCollection>Miami Ohio, Buffalo, Hofstra, Geo Washington, 
+Princeton, Old Dominion, James Madison, Georgia State, 
+Hofstra, Delaware, William  Mary, NC Wilmington, 
+Va Commonwealth, George Mason, Old Dominion, Drexel, 
+Georgia State, Northeastern, NC Wilmington, James Madison, 
+Loyola Maryland, Delaware, Drexel, Drexel
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Dartmouth</team>
+	<numWins>2</numWins>
+	<numLosses>16</numLosses>
+	<pageRank>25.179</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/159.gif</iconURL>
+	<winCollection>Drake, Cornell</winCollection>
+	<lossCollection>Providence, Loyola Maryland, Iowa State, Harvard, 
+Harvard, Columbia, Pennsylvania, Princeton, 
+Brown, Yale, Columbia, Cornell, 
+Yale, Brown, Princeton, Pennsylvania
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Georgia Southern</team>
+	<numWins>2</numWins>
+	<numLosses>25</numLosses>
+	<pageRank>25.136</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/290.gif</iconURL>
+	<winCollection>The Citadel, Georgia State</winCollection>
+	<lossCollection>Notre Dame, South Florida, Texas Tech, The Citadel, 
+Coll Charleston, Cincinnati, South Alabama, Auburn, 
+Eastern Kentucky, Western Carolina, Appalachian St, Wofford, 
+Furman, NC Greensboro, Elon, Coll Charleston, 
+Davidson, Tennessee Chat, Samford, Furman, 
+Wofford, Davidson, NC Greensboro, Elon, 
+Appalachian St</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Western Illinois</team>
+	<numWins>2</numWins>
+	<numLosses>20</numLosses>
+	<pageRank>25.088</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>http://a.espncdn.com/i/teamlogos/ncaa/sml/trans/2710.gif</iconURL>
+	<winCollection>Centenary, N Dakota St</winCollection>
+	<lossCollection>Missouri, Wyoming, Oral Roberts, Creighton, 
+IUPUI, IPFW, Oakland, South Dakota St, 
+Southern Utah, UMKC, NC Central, IUPUI, 
+Oakland, IPFW, N Dakota St, South Dakota St, 
+UMKC, Southern Utah, Centenary, Oral Roberts
+</lossCollection>
+</teamRecord>
+
+
+<teamRecord>
+	<team>Centenary</team>
+	<numWins>1</numWins>
+	<numLosses>24</numLosses>
+	<pageRank>24.847</pageRank>
+	<bcsRank>0</bcsRank>
+	<iconURL>IMAGES/helmet.png</iconURL>
+	<winCollection>Western Illinois</winCollection>
+	<lossCollection>Memphis U, Tulane, LSU, IUPUI, 
+Western Illinois, UL Monroe, Marquette, Wyoming, 
+Oakland, IPFW, South Dakota St, N Dakota St, 
+UMKC, Southern Utah, UL Lafayette, Oral Roberts, 
+IPFW, Oakland, N Dakota St, South Dakota St, 
+Southern Utah, UMKC, Oral Roberts, IUPUI
+</lossCollection>
+</teamRecord>
+
+
+</TRM>

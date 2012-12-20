@@ -1,0 +1,25 @@
+Louisville              1
+North Carolina          2
+Memphis U               3
+Pittsburgh              4
+Connecticut             5
+Duke                    6
+Oklahoma                7
+Michigan State          8
+Missouri                9
+Gonzaga                 10
+Villanova               11
+Wake Forest             12
+Syracuse                13
+Kansas                  14
+Washington              15
+Florida State           16
+Purdue                  17
+UCLA                    18
+Arizona State           19
+Xavier                  20
+LSU                     21
+Butler                  22
+Marquette               23
+Clemson                 24
+Utah U                  25

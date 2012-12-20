@@ -1,0 +1,57 @@
+/***********************************************************************
+* Name:  tables.css                                                    *
+* Version:  1.2                                                        *
+* Author:  Jessica Miller                                              *
+* Last Date Modified:  May 3, 2012                                     *
+***********************************************************************/
+
+table
+{
+	width:  100%;
+	border-collapse:  collapse;
+    background:  transparent;
+	table-layout:  auto;
+	vertical-align:  top;
+	margin-bottom:  15px;
+    border-top:  1px solid #999999;
+    border-bottom:  1px solid #999999;
+    border-left:  1px solid #999999;
+    border-right:  1px solid #999999;
+}
+
+table thead th
+{
+    font-size:  14px;
+	color:  #FFFFFF;
+	background-color:  #000000;
+	border-collapse:  collapse;
+	text-align:  center;
+	table-layout:  auto;
+    border-bottom:  1px solid #999999;
+	vertical-align:  middle;
+}
+
+table tbody td
+{
+	vertical-align:  top;
+	border-collapse:  collapse;
+    border-bottom:  1px solid #999999;
+}
+	
+table thead th, table tbody td
+{
+	padding:  5px;
+	border-collapse:  collapse;
+}
+
+table tbody tr.light
+{
+	color:  #CCCCCC;
+	background-color:  #333333;
+}
+
+table tbody tr.dark
+{
+	color:#CCCCCC;
+	background-color:#1E1E1E;
+}

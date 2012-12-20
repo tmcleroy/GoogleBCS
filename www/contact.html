@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
+    <head profile="http://gmpg.org/xfn/11">
+        <title>Google BCS</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+        <meta http-equiv="imagetoolbar" content="no" />
+        <link rel="stylesheet" href="asg2.css" type="text/css" />
+        <script type="text/javascript" src="./js/jquery.js"></script>
+        <script type="text/javascript" src="./js/jquery-1.7.1.js"></script>
+        <script type="text/javascript" src="./js/jquery-ui.js"></script>
+        <script type="text/javascript" src="./js/jquery.tablesorter.js"></script>
+        <script type="text/javascript" src="./js/jquery.ui.core.js"></script>
+        <script type="text/javascript" src="./js/jquery.ui.wiget.js"></script>
+        <script type="text/javascript" src="./js/jquery.ui.datepicker.js"></script>
+        
+        
+        <script>
+            $(function() {
+              var dates = $( "#from, #to" ).datepicker({
+                                                       defaultDate: "+1w",
+                                                       changeMonth: true,
+                                                       onSelect: function( selectedDate ) {
+                                                       var option = this.id == "from" ? "minDate" : "maxDate",
+                                                       instance = $( this ).data( "datepicker" ),
+                                                       date = $.datepicker.parseDate(
+                                                                                     instance.settings.dateFormat ||
+                                                                                     $.datepicker._defaults.dateFormat,
+                                                                                     selectedDate, instance.settings );
+                                                       dates.not( this ).datepicker( "option", option, date );
+                                                       }
+                                                       });
+              });
+            </script>
+        
+        
+        
+    </head>
+    
+    <body id="top">
+        <div class="wrapper col1">
+            <div id="header">
+                <div id="topnav">
+                    <ul>
+                        <li class="last"><a href="contact.html">Contact Us</a></li>
+                        <li><a href="how.php">How it works</a>
+                            <ul>
+                                <li><a href="l1.html">Link 1</a></li>
+                                <li><a href="l2.html">Link 2</a></li>
+                                <li><a href="l3.html">Link 3</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="about.html">About</a></li>
+                        <li class="active"><a href="gbcs3.php">Demo</a></li>
+                    </ul>
+                </div>
+                <div class="fl_left">
+                    <h1><a href="gbcs3.php">Google BCS</a></h1>
+                    <p>Based on the PageRank algorithm</p>
+                </div>
+                <br class="clear" />
+            </div>
+        </div>
+        
+        <div class="wrapper col3">
+            <div id="breadcrumb">
+                <ul>
+                    <li class="first">You Are Here</li>
+                    <li>&gt;&gt;</li>
+                    <li><a href="gbcs3.php">Demo</a></li>
+                </ul>
+            </div>
+        </div>
+        

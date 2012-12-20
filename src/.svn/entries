@@ -1,0 +1,77 @@
+10
+
+dir
+193
+http://svn.cs.stedwards.edu/cosc3339/googlebcs/trunk/GoogleBCS/src
+http://svn.cs.stedwards.edu/cosc3339/googlebcs
+
+
+
+2012-05-08T20:50:08.629436Z
+193
+tmclero
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+86e6e284-760d-4388-85bf-a0e2d020e2b6
+
+bcs
+dir
+
+datastructures
+dir
+
+main
+dir
+
+test
+dir
+
+utils
+dir
+
+www.zip
+file
+
+
+
+
+2012-05-09T00:11:49.272000Z
+b5ef1a27cfbba3ef69a9f8b5e956c9a4
+2012-05-08T20:50:08.629436Z
+193
+tmclero
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6946822
+
